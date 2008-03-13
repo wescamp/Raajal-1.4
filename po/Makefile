@@ -14,7 +14,7 @@
 # - proper behaviour when msgfmt is missing
 # - support for relative localedir
 
-PACKAGE = wesnoth-Rajaal
+PACKAGE = wesnoth-Raajal
 VERSION = @VERSION@
 
 SHELL = /bin/sh
