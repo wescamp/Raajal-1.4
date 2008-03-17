@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-03-15 19:12+0100\n"
+"POT-Creation-Date: 2008-03-17 14:17+0100\n"
 "PO-Revision-Date: 2008-03-13 20:44+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -11,6 +11,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
+#. event: description=Cithrand facing sw}, description=Unalas facing sw}, description=Cithrand facing se}, description=Unalas facing se}, description=Raajal facing sw}, description=Raajal type (Undead General Power)}
+#. event
+#. campaign
 #: Raajal/scenarios/02_A_New_Vitality.cfg:165
 #: Raajal/scenarios/02_A_New_Vitality.cfg:241
 #: Raajal/scenarios/01_Resurrection.cfg:180
@@ -19,79 +22,98 @@ msgstr ""
 msgid "Raajal"
 msgstr ""
 
+#. campaign
 #: Raajal/_main.cfg:10
 msgid ""
 "An Arch Mage with the power of resurrection seeks a new apprentice. Version"
 msgstr ""
 
+#. campaign
 #: Raajal/_main.cfg:13
 msgid "Easy"
 msgstr ""
 
+#. campaign
 #: Raajal/_main.cfg:14
 msgid "Normal"
 msgstr ""
 
+#. campaign
 #: Raajal/_main.cfg:15
 msgid "Hard"
 msgstr ""
 
+#. about
 #: Raajal/_main.cfg:18
 msgid "Campaign Design"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/01_Resurrection.cfg:4
 msgid "Resurrection"
 msgstr ""
 
+#. event
+#. scenario
 #: Raajal/scenarios/01_Resurrection.cfg:98
 #: Raajal/scenarios/01_Resurrection.cfg:113
 msgid "Geodry"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/01_Resurrection.cfg:124
 msgid "After years of loyal service, I am sent into exile. Why?"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/01_Resurrection.cfg:127
 msgid "What have I done to deserve this fate?"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/01_Resurrection.cfg:131
 msgid "Answer me, you putrid slime!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/01_Resurrection.cfg:137
 msgid ""
 "You will not get away with this! I shall return to Wesnoth! You will beg for "
 "mercy before I cut you into a thousand pieces!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/01_Resurrection.cfg:144
 msgid "Do you hear me? The reign of King..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/01_Resurrection.cfg:150
 msgid "What is that?"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/02_A_New_Vitality.cfg:4
 msgid "A New Vitality"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:63
 #: Raajal/scenarios/02_A_New_Vitality.cfg:82
 msgid "I will tell you nothing!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:63
 msgid "Paldrol"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:64
 msgid "Dalthos"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:64
 #: Raajal/scenarios/02_A_New_Vitality.cfg:67
 #: Raajal/scenarios/02_A_New_Vitality.cfg:69
@@ -99,10 +121,12 @@ msgstr ""
 msgid "Please..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:65
 msgid "Glamgril"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:65
 #: Raajal/scenarios/02_A_New_Vitality.cfg:66
 #: Raajal/scenarios/02_A_New_Vitality.cfg:68
@@ -110,133 +134,165 @@ msgstr ""
 msgid "Stop!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:66
 msgid "Pelathos"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:67
 msgid "Narli"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:68
 msgid "Alaithlos"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:69
 msgid "Dulcatlos"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:70
 msgid "Why have you..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:70
 msgid "Pelaithsil"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:71
 msgid "Althaas"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:71
 #: Raajal/scenarios/02_A_New_Vitality.cfg:85
 #: Raajal/scenarios/02_A_New_Vitality.cfg:91
 msgid "I do not know!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:72
 msgid "Glamcatus"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:72
 msgid "Who are you?"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:73
 msgid "You are insane!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:73
 msgid "Glomin"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:74
 msgid "Why are you..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:74
 msgid "Pelthail"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:75
 msgid "Pelatis"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:76
 msgid "Primli"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:76
 msgid "I do not know any..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:77
 msgid "Pelcatol"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:77
 msgid "You will pay..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:78
 msgid "You will not get away with this..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:78
 msgid "Trithaithis"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:79
 msgid "Go back to the fiery pit from whence you came!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:79
 msgid "Andurus"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:80
 msgid "Augcatsil"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:80
 msgid "We do not know!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:81
 msgid "Please, do not..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:81
 msgid "Nardril"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:82
 msgid "Gomdrol"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:85
 msgid "Elfindril"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:86
 msgid "Elrand"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:86
 #: Raajal/scenarios/02_A_New_Vitality.cfg:92
 msgid "You will..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:87
 #: Raajal/scenarios/02_A_New_Vitality.cfg:88
 #: Raajal/scenarios/02_A_New_Vitality.cfg:90
@@ -244,214 +300,275 @@ msgstr ""
 msgid "Have mercy..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:87
 msgid "Gylas"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:88
 msgid "Glindur"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:89
 msgid "You will not..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:89
 msgid "Glerand"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:90
 msgid "Tylad"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:91
 msgid "Rorfindil"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:92
 msgid "Cithrand"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:93
 msgid "Unalas"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:93
 msgid "Stop, please!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:94
 msgid "Morfilas"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:94
 msgid "I beg of you..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:95
 msgid "Earyldur"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:95
 msgid "This is madness!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:96
 msgid "Pyldur"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:96
 msgid "We do not know! Please..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:97
 msgid "Gelad"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:97
 msgid "Stop this insanity!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:98
 msgid "Fool! Every elf in Wesnoth will..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:98
 msgid "Isirion"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:99
 msgid "Tinarariand"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:99
 msgid "Please, you must not..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:100
 msgid "Tinindil"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:100
 msgid "Be gone, demon!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:101
 msgid "Elandil"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:101
 msgid "Why..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:102
 msgid "Deleng"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:103
 msgid "I do not..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:103
 msgid "Mebrin"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:104
 msgid "Unorfiril"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:106
 msgid "Ruk"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:107
 msgid "Thur"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:108
 msgid "Frok"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:109
 msgid "Thruf"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:110
 msgid "Nuk"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:111
 msgid "Ruh"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:112
 msgid "Grar"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:113
 msgid "Trok"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:116
 #: Raajal/scenarios/02_A_New_Vitality.cfg:120
 msgid "Krak"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:121
 msgid "Gark"
 msgstr ""
 
+#. event: description=Cithrand facing sw}, description=Unalas facing sw}, description=Cithrand facing se}, description=Unalas facing se}, description=Raajal facing sw}, description=Raajal type (Undead General Power)}
 #: Raajal/scenarios/02_A_New_Vitality.cfg:133
 msgid "Keep pressing on!"
 msgstr ""
 
+#. event: description=Cithrand facing sw}, description=Unalas facing sw}, description=Cithrand facing se}, description=Unalas facing se}, description=Raajal facing sw}, description=Raajal type (Undead General Power)}
 #: Raajal/scenarios/02_A_New_Vitality.cfg:176
 msgid "What brings you here, stranger?"
 msgstr ""
 
+#. event: description=Cithrand facing sw}, description=Unalas facing sw}, description=Cithrand facing se}, description=Unalas facing se}, description=Raajal facing sw}, description=Raajal type (Undead General Power)}
 #: Raajal/scenarios/02_A_New_Vitality.cfg:181
 msgid "Are you friend or foe?"
 msgstr ""
 
+#. event: description=Cithrand facing sw}, description=Unalas facing sw}, description=Cithrand facing se}, description=Unalas facing se}, description=Raajal facing sw}, description=Raajal type (Undead General Power)}
 #: Raajal/scenarios/02_A_New_Vitality.cfg:186
 msgid "Pay him no mind. He would not dare attack us."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:326
 msgid "Help!"
 msgstr ""
 
+#. event: description=Raajal (Undead General Power) 1 $x1 $y1 ({SOUL_VARIATION})}
 #: Raajal/scenarios/02_A_New_Vitality.cfg:387
 msgid "Where is Randalf?"
 msgstr ""
 
+#. then
 #: Raajal/scenarios/02_A_New_Vitality.cfg:429
 msgid "The wizard? He is a friend of King Theomund's. Now please..."
 msgstr ""
 
+#. then
 #: Raajal/scenarios/02_A_New_Vitality.cfg:509
 msgid "There are not enough souls here. I must go elsewhere."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/02_A_New_Vitality.cfg:525
 msgid "You haven't seen the last of me..."
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
+#. event: (description=Raajal) no}, (type=Lost Soul) no}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:202
 #: Raajal/scenarios/02_A_New_Vitality.cfg:534
 msgid "Thank you."
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/03_Six_Years_Later.cfg:4
 msgid "Six Years Later"
 msgstr ""
 
+#. event: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
+#. event: (description=Zilead) 11 8}, description=Zilead, description=Zilead, (description=Jezebel) 11 9}, (description=Amelia) 10 8}, (description=Delora) 10 7}, (description=Mildred) 11 7}
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#. event: (description=$desc) 1 1}, (type=Pirate Galleon) no}, (description=$desc) $x $y}, description=Horomir no}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:81
 #: Raajal/scenarios/Day1_Zilead.cfg:40 Raajal/scenarios/04_Overboard.cfg:442
 #: Raajal/scenarios/04_Overboard.cfg:832
 msgid "Zilead"
 msgstr ""
 
+#. event: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
+#. event
+#. event: type=Witch no}
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#. event: (description=Zeke) 20 1}, (description=Anna) 20 2}, (type=Witch) yes}
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:86
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:38
 #: Raajal/scenarios/Day2_Angalas.cfg:284
@@ -463,6 +580,11 @@ msgstr ""
 msgid "Zeke"
 msgstr ""
 
+#. event: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
+#. event
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#. event: (description=Zeke) 20 1}, (description=Anna) 20 2}, (type=Witch) yes}
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:89
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:39
 #: Raajal/scenarios/14_The_Dungeon.cfg:44
@@ -472,10 +594,17 @@ msgstr ""
 msgid "Anna"
 msgstr ""
 
+#. event: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:92
 msgid "Randalf, we know you're here!"
 msgstr ""
 
+#. event: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
+#. event: (description=Randalf) 15 20}, (description=Randalf) 17 18}
+#. event
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#. event: (description=$desc) 1 1}, (type=Pirate Galleon) no}, (description=$desc) $x $y}, description=Horomir no}
+#. event: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:98
 #: Raajal/scenarios/Day1_Randalf.cfg:56
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:27
@@ -488,1100 +617,1361 @@ msgstr ""
 msgid "Randalf"
 msgstr ""
 
+#. event: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:102
 msgid "Zilead, my dear friend..."
 msgstr ""
 
+#. event: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:103
 msgid ""
 "Friend? We are no longer friends, you deceitful villain! This is all your "
 "fault!"
 msgstr ""
 
+#. event: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:104
 msgid "Father, please! We need his help!"
 msgstr ""
 
+#. event: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:105
 msgid ""
 "Randalf, our galleon was attacked by witches just after we left Eliador. "
 "They took mother and told me and Zeke to fly to Wesnoth."
 msgstr ""
 
+#. event: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:106
 msgid ""
 "They said if we want to see momma again, we'd have to bring you, papa, and "
 "King Theomund to Angalas."
 msgstr ""
 
+#. event: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:107
 msgid "Will you help us save our mother?"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/04_Overboard.cfg:4
 msgid "Overboard"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:306
 msgid "Conqueror"
 msgstr ""
 
+#. event: role=patrol}, role=patrol}
+#. event
 #: Raajal/scenarios/Day3_Theomund.cfg:39 Raajal/scenarios/04_Overboard.cfg:307
 msgid "Horomir"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:308
 msgid "Todd"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:310 Raajal/scenarios/04_Overboard.cfg:314
 #: Raajal/scenarios/04_Overboard.cfg:318
 msgid "Tegwyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:311 Raajal/scenarios/04_Overboard.cfg:315
 #: Raajal/scenarios/04_Overboard.cfg:319
 msgid "Saenvan"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:322
 msgid "Endeavour"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:323
 msgid "Gwaeddyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:324
 msgid "Blennyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:325
 msgid "Rhanry"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:326
 msgid "Sennyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:328
 msgid "Avenger"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:330 Raajal/scenarios/04_Overboard.cfg:336
 #: Raajal/scenarios/04_Overboard.cfg:342
 msgid "Glillyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:331 Raajal/scenarios/04_Overboard.cfg:337
 #: Raajal/scenarios/04_Overboard.cfg:343
 msgid "Lenvan"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:332 Raajal/scenarios/04_Overboard.cfg:338
 #: Raajal/scenarios/04_Overboard.cfg:344
 msgid "Romyr"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:333 Raajal/scenarios/04_Overboard.cfg:339
 #: Raajal/scenarios/04_Overboard.cfg:345
 msgid "Tudd"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:348
 msgid "Vendetta"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:349
 msgid "Demyr"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:350
 msgid "Caryn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:351
 msgid "Veocyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:352
 msgid "Cubryn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:354
 msgid "Windflower"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:355
 msgid "Addredry"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:356
 msgid "Gleran"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:357
 msgid "Suc"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:358
 msgid "Addribryn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:360
 msgid "Seahorse"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:361
 msgid "Aethunry"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:362
 msgid "Geddyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:364 Raajal/scenarios/04_Overboard.cfg:368
 #: Raajal/scenarios/04_Overboard.cfg:372
 msgid "Owidry"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:365 Raajal/scenarios/04_Overboard.cfg:369
 #: Raajal/scenarios/04_Overboard.cfg:373
 msgid "Taemyr"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:376
 msgid "Vanquisher"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:377
 msgid "Lonnyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:378
 msgid "Carercyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:379
 msgid "Ceoryn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:380
 msgid "Modd"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:382
 msgid "Intrepid"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:383
 msgid "Ven"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:384
 msgid "Aethircyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:385
 msgid "Bleollyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:386
 msgid "Lurraent"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:388
 msgid "Prosperity"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:389
 msgid "Middry"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:390
 msgid "Aethercyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:391
 msgid "Yrirraent"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/04_Overboard.cfg:392
 msgid "Cyryn"
 msgstr ""
 
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/04_Overboard.cfg:449
 msgid "Ardella"
 msgstr ""
 
+#. scenario
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/Day2_Angalas.cfg:270 Raajal/scenarios/04_Overboard.cfg:452
 msgid "Ardella!"
 msgstr ""
 
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/04_Overboard.cfg:462
 msgid "Momma!"
 msgstr ""
 
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/04_Overboard.cfg:466
 msgid "Are you all right?"
 msgstr ""
 
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/04_Overboard.cfg:467
 msgid "Where are the witches?"
 msgstr ""
 
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/04_Overboard.cfg:468
 msgid "Did they hurt you, momma?"
 msgstr ""
 
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/04_Overboard.cfg:472
 msgid "Ardella?"
 msgstr ""
 
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/04_Overboard.cfg:473
 msgid "Who else is aboard the galleon? It is safe to come out."
 msgstr ""
 
+#. event: role=patrol}, role=patrol}
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#. event: (description=$desc) 1 1}, (type=Pirate Galleon) no}, (description=$desc) $x $y}, description=Horomir no}
+#. event
 #: Raajal/scenarios/Day3_Theomund.cfg:36 Raajal/scenarios/04_Overboard.cfg:476
 #: Raajal/scenarios/04_Overboard.cfg:893 Raajal/scenarios/Day2_Theomund.cfg:40
 msgid "King Theomund"
 msgstr ""
 
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/04_Overboard.cfg:482
 msgid "Queen Edina"
 msgstr ""
 
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/04_Overboard.cfg:488
 msgid "Rogan"
 msgstr ""
 
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/04_Overboard.cfg:494
 msgid "Leana"
 msgstr ""
 
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/04_Overboard.cfg:507
 msgid "Follow me."
 msgstr ""
 
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/04_Overboard.cfg:526
 msgid "Hazel"
 msgstr ""
 
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/04_Overboard.cfg:527
 msgid "Angelica"
 msgstr ""
 
+#. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Raajal/scenarios/04_Overboard.cfg:528
 msgid "Cassandra"
 msgstr ""
 
+#. then
 #: Raajal/scenarios/04_Overboard.cfg:729
 msgid "My men will never surrender!"
 msgstr ""
 
+#. then
 #: Raajal/scenarios/04_Overboard.cfg:732
 msgid "Then they all must die!"
 msgstr ""
 
+#. else
 #: Raajal/scenarios/04_Overboard.cfg:735
 msgid "My father will avenge me..."
 msgstr ""
 
+#. else
 #: Raajal/scenarios/04_Overboard.cfg:738
 msgid "It is your father's arrogance that led to your demise!"
 msgstr ""
 
+#. event: (description=$desc) 1 1}, (type=Pirate Galleon) no}, (description=$desc) $x $y}, description=Horomir no}
 #: Raajal/scenarios/04_Overboard.cfg:841
 msgid "Zilead? We were attacked by witches! Inform my father at once!"
 msgstr ""
 
+#. event: (description=$desc) 1 1}, (type=Pirate Galleon) no}, (description=$desc) $x $y}, description=Horomir no}
 #: Raajal/scenarios/04_Overboard.cfg:855
 msgid "Where are you going? Coward!"
 msgstr ""
 
+#. event: (description=$desc) 1 1}, (type=Pirate Galleon) no}, (description=$desc) $x $y}, description=Horomir no}
 #: Raajal/scenarios/04_Overboard.cfg:871
 msgid "Randalf..."
 msgstr ""
 
+#. event: (description=$desc) 1 1}, (type=Pirate Galleon) no}, (description=$desc) $x $y}, description=Horomir no}
 #: Raajal/scenarios/04_Overboard.cfg:885
 msgid "Why did he leave?"
 msgstr ""
 
+#. event: (description=$desc) 1 1}, (type=Pirate Galleon) no}, (description=$desc) $x $y}, description=Horomir no}
 #: Raajal/scenarios/04_Overboard.cfg:901
 msgid "Father, thank goodness! What is going on?"
 msgstr ""
 
+#. event: (description=$desc) 1 1}, (type=Pirate Galleon) no}, (description=$desc) $x $y}, description=Horomir no}
 #: Raajal/scenarios/04_Overboard.cfg:902
 msgid ""
 "We must head back to Wesnoth, Horomir. I'll explain everything on the way."
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:4
 msgid "Prisoners of Angalas"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:64
 msgid "Tylur"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:65
 msgid "Galorilith"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:66
 msgid "Lucien"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:67
 msgid "Harias"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:68
 msgid "Belowyn"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:69
 msgid "Mylaril"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:72
 msgid "Aliomir"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:73
 msgid "Legrinduil"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:74
 msgid "Eamir"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:75
 msgid "Ealmaldur"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:76
 msgid "Cil-Gar"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:77
 msgid "Norfindil"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:78
 msgid "Alandir"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:79
 msgid "Garanduil"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:80
 msgid "Tyluldur"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:81
 msgid "Calendur"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:82
 msgid "Glorfil"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:83
 msgid "Aliendil"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:84
 msgid "Anur"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:85
 msgid "Elithraril"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:86
 msgid "Galad"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:87
 msgid "Legilas"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:88
 msgid "Unebrin"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:89
 msgid "Delindril"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:90
 msgid "Pyldirion"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:91
 msgid "Galadrias"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:92
 msgid "Unarier"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:93
 msgid "Isilfindir"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:94
 msgid "Urylgir"
 msgstr ""
 
+#. event: (description=Anna) (description=Zeke)}, (description=Leana) (description=Rogan)}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:95
 msgid "Deloril"
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:125
 msgid ""
 "Why did you bring us to the site of this massacre, Ardella? We must leave "
 "Angalas before the witches return."
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:126
 msgid ""
 "The elves are not dead. They are in a trance... Ardella has led us into a "
 "trap!"
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:127
 msgid "Nonsense!"
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:128
 msgid "Momma, I'm scared. Can we please leave now?"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/Day1_Angalas.cfg:151
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:133
 msgid "Momma?"
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
+#. event
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:142
 #: Raajal/scenarios/06_The_Oracle.cfg:39
 msgid "Glenda"
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:149
 msgid "Meredith"
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
+#. event
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:156
 #: Raajal/scenarios/06_The_Oracle.cfg:38
 msgid "Agatha"
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:158
 msgid "Zilead, Theomund and Randalf, come forward."
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:167
 msgid "Very well! Ardella, kill your children!"
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:168
 msgid "Yes, master!"
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:169
 msgid "Ardella, no!"
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:170
 msgid "Come forward!"
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:177
 msgid "I suppose you are all wondering why you have been summoned."
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:178
 msgid ""
 "There exists a being that has caused us all great grief. With your help, we "
 "believe we can finally end his reign of terror."
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:179
 msgid "To whom do you refer?"
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:180
 msgid "She speaks of Raajal."
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:181
 msgid "I have not heard of him... Who is he?"
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:184
 msgid ""
 "I was hoping I would never have to tell you about him. Agatha is right. We "
 "have all suffered because of Raajal."
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:185
 msgid "Then why is this the first time I hear his name?"
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:186
 msgid "Well, six years ago..."
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:187
 msgid "Perhaps you should start from the very beginning, Randalf."
 msgstr ""
 
+#. event: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:188
 msgid "Right. About thirty years ago..."
 msgstr ""
 
+#. event
+#. event: (description=The Oracle) type (Oracle)}
+#. scenario: (description=The Oracle) type (Oracle Glow Small)}, (description=The Oracle) type (Oracle Glow Big)}
 #: Raajal/scenarios/06_The_Oracle.cfg:4 Raajal/scenarios/06_The_Oracle.cfg:42
 #: Raajal/scenarios/06_The_Oracle.cfg:82
 msgid "The Oracle"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/06_The_Oracle.cfg:35
 #: Raajal/scenarios/07_The_Contender.cfg:32
 msgid "Ursula"
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:64
 msgid "Who are you looking for this time, Ursula?"
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:65
 msgid ""
 "A dark sorcerer who goes by the name of Othello. We believe he resides on "
 "one of the isles surrounding The Red Sea."
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:66
 msgid "All right. Let's get started."
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:72
 msgid "How long does this usually take?"
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:73
 msgid ""
 "Patience, Agatha. It will only take a few minutes. Othello will not live out "
 "the night."
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:93
 msgid "Well?"
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:94
 msgid "Just a moment."
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:100
 msgid "I see a being..."
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:106
 msgid "He lives in an abandoned mine..."
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:112
 msgid "He is an immortal, capable of resurrection..."
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:113
 msgid "That does not sound like Othello..."
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:114
 msgid "No, but I am being shown these images for a reason."
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:120
 msgid "One day, years from now, he will undergo a transformation."
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:126
 msgid "You are wasting..."
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:127
 msgid "Silence!"
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:133
 msgid "A few years after he has transformed..."
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:144
 msgid "What is it? What did you see?"
 msgstr ""
 
+#. event: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:145
 msgid "The demise of the witches!"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/07_The_Contender.cfg:4
 msgid "The Contender"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/07_The_Contender.cfg:37
 msgid "Talika"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/07_The_Contender.cfg:43
 msgid ""
 "That is all The Oracle told me. I do not know his name or where to find him."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/07_The_Contender.cfg:44
 msgid "You said he lives in an abandoned mine, right?"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/07_The_Contender.cfg:45
 msgid "Yes. Why?"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/07_The_Contender.cfg:46
 msgid "It is probably nothing."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/07_The_Contender.cfg:47
 msgid "What?"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/07_The_Contender.cfg:48
 msgid ""
 "An arch mage is holding a competition to find a new apprentice. It is taking "
 "place in an abandoned mine on an isle southwest of Eliador."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/07_The_Contender.cfg:49
 msgid "Can you enter the competition?"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/07_The_Contender.cfg:50
 msgid "You think he's the one?"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/07_The_Contender.cfg:51
 msgid "He might be."
 msgstr ""
 
+#. scenario: role=tournament_player
 #: Raajal/scenarios/08_The_Apprentice.cfg:4
 msgid "The Apprentice"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/08_The_Apprentice.cfg:102
 #: Raajal/scenarios/08_The_Apprentice.cfg:114
 #: Raajal/scenarios/08_The_Apprentice.cfg:126
 msgid "Gradoc"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/08_The_Apprentice.cfg:103
 #: Raajal/scenarios/08_The_Apprentice.cfg:115
 #: Raajal/scenarios/08_The_Apprentice.cfg:127
 msgid "Hibryn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/08_The_Apprentice.cfg:104
 #: Raajal/scenarios/08_The_Apprentice.cfg:116
 #: Raajal/scenarios/08_The_Apprentice.cfg:128
 msgid "Rheoran"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/08_The_Apprentice.cfg:105
 #: Raajal/scenarios/08_The_Apprentice.cfg:113
 #: Raajal/scenarios/08_The_Apprentice.cfg:125
 msgid "Raemyr"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/08_The_Apprentice.cfg:106
 #: Raajal/scenarios/08_The_Apprentice.cfg:118
 #: Raajal/scenarios/08_The_Apprentice.cfg:130
 msgid "Alledrin"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/08_The_Apprentice.cfg:107
 #: Raajal/scenarios/08_The_Apprentice.cfg:119
 #: Raajal/scenarios/08_The_Apprentice.cfg:131
 msgid "Turrek"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/08_The_Apprentice.cfg:108
 #: Raajal/scenarios/08_The_Apprentice.cfg:120
 #: Raajal/scenarios/08_The_Apprentice.cfg:129
 msgid "Lerran"
 msgstr ""
 
+#. event: (description=Randalf) 10 3}, (description=Randalf) 10 2}, (description=Randalf) type (Elder Mage Dagger)}, description=Randalf facing sw}
 #: Raajal/scenarios/08_The_Apprentice.cfg:486
 msgid "Come forth, Randalf."
 msgstr ""
 
+#. event: (description=Randalf) 10 3}, (description=Randalf) 10 2}, (description=Randalf) type (Elder Mage Dagger)}, description=Randalf facing sw}
 #: Raajal/scenarios/08_The_Apprentice.cfg:488
 msgid ""
 "You are about to embark on a journey through the spirit world. After you "
 "return from your journey, you will no longer have to fear physical death."
 msgstr ""
 
+#. event: (description=Randalf) 10 3}, (description=Randalf) 10 2}, (description=Randalf) type (Elder Mage Dagger)}, description=Randalf facing sw}
 #: Raajal/scenarios/08_The_Apprentice.cfg:489
 msgid "What must I do?"
 msgstr ""
 
+#. event: (description=Randalf) 10 3}, (description=Randalf) 10 2}, (description=Randalf) type (Elder Mage Dagger)}, description=Randalf facing sw}
 #: Raajal/scenarios/08_The_Apprentice.cfg:490
 msgid "Pick up the dagger."
 msgstr ""
 
+#. event: (description=Randalf) 10 3}, (description=Randalf) 10 2}, (description=Randalf) type (Elder Mage Dagger)}, description=Randalf facing sw}
 #: Raajal/scenarios/08_The_Apprentice.cfg:503
 msgid ""
 "Pierce my heart with it and then, while the dagger still drips with my "
 "blood, pierce your own heart."
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/09_The_Story_Continues.cfg:4
 msgid "The Story Continues"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/09_The_Story_Continues.cfg:57
 msgid "So I slew Raajal, cut off his head, and threw it into the abyss."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/09_The_Story_Continues.cfg:58
 msgid ""
 "That's cold-blooded, Randalf, even for you... I still do not see how any of "
 "this concerns me and Zilead."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/09_The_Story_Continues.cfg:59
 msgid ""
 "I'm getting to that part. The witches and I did not expect Raajal to ever "
 "return from the spirit world. However, six years ago..."
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:4
 msgid "Six Years Earlier"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:40
 #: Raajal/scenarios/14_The_Dungeon.cfg:47
 msgid "Bastian"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:41
 #: Raajal/scenarios/14_The_Dungeon.cfg:50
 msgid "Irving"
 msgstr ""
 
+#. event
+#. event: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:42
 #: Raajal/scenarios/14_The_Dungeon.cfg:53
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:87
 msgid "Reuben"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:45
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:52
 msgid "Malaka"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:48
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:149
 msgid "Elenthor"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:49
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:150
 msgid "Lindred"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:50
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:152
 msgid "Gilbeth"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:51
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:153
 msgid "Falgrad"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:52
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:154
 msgid "Minduil"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:53
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:155
 msgid "Boragarth"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:56
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:157
 msgid "Glahad"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:57
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:158
 msgid "Gedavir"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:58
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:159
 msgid "Thrildor"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:59
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:163
 msgid "Denegorn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:60
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:182
 msgid "Glaemyr"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:61
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:178
 msgid "Gibryn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:62
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:179
 msgid "Aethor"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:63
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:183
 msgid "Carcyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:64
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:180
 msgid "Brock"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:65
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:181
 msgid "Gaethun"
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Bastian) (description=Anna)}, (description=Irving) (description=Anna)}, (description=Reuben) 19 15}, (description=Reuben) (description=Anna)}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:77
 msgid "Mommy, why did Zilead and Ardella leave Wesnoth?"
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Bastian) (description=Anna)}, (description=Irving) (description=Anna)}, (description=Reuben) 19 15}, (description=Reuben) (description=Anna)}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:78
 msgid ""
 "Because they decided that Eliador would be a safer place to raise their "
 "daughter."
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Bastian) (description=Anna)}, (description=Irving) (description=Anna)}, (description=Reuben) 19 15}, (description=Reuben) (description=Anna)}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:81
 msgid "Will we ever see them again?"
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Bastian) (description=Anna)}, (description=Irving) (description=Anna)}, (description=Reuben) 19 15}, (description=Reuben) (description=Anna)}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:82
 msgid "Of course we..."
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Bastian) (description=Anna)}, (description=Irving) (description=Anna)}, (description=Reuben) 19 15}, (description=Reuben) (description=Anna)}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:87
 msgid "Slow down, Reuben!"
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Bastian) (description=Anna)}, (description=Irving) (description=Anna)}, (description=Reuben) 19 15}, (description=Reuben) (description=Anna)}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:88
 msgid "Don't worry, mommy. I'll be careful."
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:125
 msgid "Can I help you?"
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:133
 msgid "Reuben!"
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:134
 msgid "Is there a problem, Aethor?"
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:138
 msgid "I can handle this. Go back to the castle."
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:139
 msgid "Okay, but if he gives you any trouble..."
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:140
 msgid "I will not hesitate to call upon you."
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:145
 msgid "Little boy, wait!"
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:154
 msgid ""
 "I am looking for an old acquaintance of mine. His name is Randalf. Have you "
 "seen him?"
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:155
 msgid "Sorry, I don't know where he is."
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:173
 msgid "Wait a moment.."
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:190
 msgid "Aethor, when is King Theomund returning from Eliador?"
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:191
 msgid "Three days from now. Why?"
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:199
 msgid ""
 "Sir, Randalf will probably be here in three days. Why don't you come back "
 "then?"
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:200
 msgid "Do you mind if I set up camp by the mountain?"
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:201
 msgid "I suppose not."
 msgstr ""
 
+#. event: (description=Reuben) 25 18}, (description=Reuben) 19 15}, (description=Raajal) no}, description=Raajal facing se}, (description=Aethor) 4 16}, description=Aethor facing sw}, (description=Reuben) 5 16}, description=Reuben facing sw}, description=Zeke facing sw}, (description=Aethor) facing se}, (description=Reuben) 8 14}, (description=Aethor) facing sw}, (description=Reuben) 6 15}, description=Reuben facing sw}, (description=Reuben) 8 14}, (description=Aethor) facing se}, description=Reuben facing se}, (description=Raajal) type (Undead General Power)}, (description=Raajal) max_hitpoints $raajal_store.max_hitpoints}, description=Reuben facing sw}, (description=Raajal) type (Undead General)}, (description=Reuben) 3 18}, (description=Aethor) facing sw}, description=Reuben facing sw}, (description=Raajal) 31 19}, description=Reuben facing se}
 #: Raajal/scenarios/10_Six_Years_Earlier.cfg:206
 msgid "He seems nice."
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:4
 msgid "Ursula's Sisters"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:32
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:703
 msgid "Amelia"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:37
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:704
 msgid "Mildred"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:42
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:705
 msgid "Jezebel"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:47
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:706
 msgid "Delora"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:60
 msgid "Why did he spare their lives?"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:61
 msgid ""
 "Apparently, he does not want his identity known until I arrive at the castle."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:62
 msgid "And if you do not show up in three days?"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:63
 msgid "I expect Raajal will go on another rampage..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:64
 msgid ""
 "Obviously, we cannot allow him to take any more souls. He is already far too "
 "powerful."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:65
 msgid "Perhaps it is just revenge he seeks. If we give Raajal the wizard..."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:66
 msgid "But we cannot ignore the prophecy. Raajal must be stopped."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:67
 msgid "Then there is only one course of action."
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:4
 msgid "Prepare for Battle"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:145
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:42
 msgid "Gyran"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:146
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:43
 msgid "Elurian"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:147
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:44
 msgid "Draven"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:148
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:45
 msgid "Hedry"
 msgstr ""
 
+#. event: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:79
 msgid "What is he doing?"
 msgstr ""
 
+#. event: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:95
 msgid "What is it now, Reuben?"
 msgstr ""
 
+#. event: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:96
 msgid "I can't sleep. I thought I'd..."
 msgstr ""
 
+#. event: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:97
 msgid "Hedry, the strange one is approaching the castle."
 msgstr ""
 
+#. event: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:107
 msgid "What do you want?"
 msgstr ""
 
+#. event: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:108
 msgid "Your castle is about to be invaded by an army of orcs."
 msgstr ""
 
+#. event: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:109
 msgid ""
 "Nonsense. If there are indeed orcs out there, they are likely friends of the "
 "wizard's."
 msgstr ""
 
+#. event: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:110
 msgid "Randalf is aligned with the orcs?"
 msgstr ""
 
+#. event: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:111
 msgid ""
 "Not exactly. Orcs helped us conquer this castle about a year ago. Some of "
@@ -1589,769 +1979,956 @@ msgid ""
 "all very confusing."
 msgstr ""
 
+#. event: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:112
 msgid "Indeed..."
 msgstr ""
 
+#. event: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:113
 msgid "How many orcs are we talking about?"
 msgstr ""
 
+#. event: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:114
 msgid ""
 "At least three hundred marching in formation. They'll be here by morning."
 msgstr ""
 
+#. event: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:119
 msgid "Perhaps you should prepare your men for battle?"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:4
 msgid "A Failed Attempt"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:160
 msgid "Hildur"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:162
 msgid "Gedrahil"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:164
 msgid "Bardil"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:165
 msgid "Furgon"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:167
 msgid "Jaredd"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:168
 msgid "Rydan"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:169
 msgid "Leorraent"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:170
 msgid "Grodyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:172
 msgid "Reduil"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:173
 msgid "Tydur"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:174
 msgid "Drelgon"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:175
 msgid "Morthun"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:247
 msgid ""
 "We will be watching you, strange one. It is no coincidence that, the morning "
 "after you arrive, we are invaded by orcs."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:255
 msgid ""
 "Hedry, my wife and I insist that we help you fend off the orcs, at least "
 "until reinforcements arrive."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:256
 msgid ""
 "I am sorry, Zeke, but we are sworn to protect you and your family. I must "
 "insist that you remain in the underground chamber until the battle is over."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:263
 msgid "This is suicide. We are outnumbered ten to one."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:264
 msgid "They are only orcs. We will squash them like insects!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:372
 msgid "I knew you could not be trusted!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:708
 msgid "Shouldn't we wait for the other witches?"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:709
 msgid "If we wait any longer, Raajal will grow too powerful."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:715
 msgid "Andrin"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:716
 msgid "Greor"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:717
 msgid "Owennyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:718
 msgid "Dibran"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:719
 msgid "Lebroc"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:720
 msgid "Bladyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:721
 msgid "Glyonyc"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:722
 msgid "Aerraent"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:723
 msgid "Heddroc"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:724
 msgid "Raecyn"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:725
 msgid "Tedrin"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:726
 msgid "Charge!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:800
 msgid "I have slain a witch! Victory will soon be ours!"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/14_The_Dungeon.cfg:4
 msgid "The Dungeon"
 msgstr ""
 
+#. event: (description=Raajal) 16 10}, (description=Raajal) no}
 #: Raajal/scenarios/14_The_Dungeon.cfg:70
 msgid "Why is it so quiet all of a sudden?"
 msgstr ""
 
+#. event: (description=Raajal) 16 10}, (description=Raajal) no}
 #: Raajal/scenarios/14_The_Dungeon.cfg:71
 msgid "The battle must be over..."
 msgstr ""
 
+#. event: (description=Raajal) 16 10}, (description=Raajal) no}
 #: Raajal/scenarios/14_The_Dungeon.cfg:72
 msgid "Someone's coming!"
 msgstr ""
 
+#. event: (description=Raajal) 16 10}, (description=Raajal) no}
 #: Raajal/scenarios/14_The_Dungeon.cfg:82
 msgid "Mommy, that's the strange man I told you about. Hello, friend!"
 msgstr ""
 
+#. event: (description=Raajal) 16 10}, (description=Raajal) no}
 #: Raajal/scenarios/14_The_Dungeon.cfg:89
 msgid "Have all the orcs been slain already?"
 msgstr ""
 
+#. event: (description=Raajal) 16 10}, (description=Raajal) no}
 #: Raajal/scenarios/14_The_Dungeon.cfg:96
 msgid "Sir?"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/15_Three_Missions.cfg:4
 msgid "Three Missions"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/15_Three_Missions.cfg:57
 msgid "Visocula!"
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:81
 msgid "Now that you're all caught up, we can finally get down to business."
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:83
 msgid "Zilead, take this potion."
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:85
 msgid ""
 "There is a cave at the south end of the Red Sea. You will go there and await "
 "further instructions."
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:86
 msgid "And if I refuse?"
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:87
 msgid ""
 "If you refuse, Ardella will kill your children. If you fail, Ardella will "
 "kill your children!"
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:90
 msgid "Theomund, your mission is in Wesnoth."
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:91
 msgid "Oh?"
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:92
 msgid "You must assassinate King Gerald II..."
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:93
 msgid "Right. And why would I do such a foolish thing?"
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:94
 msgid "If you..."
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:95
 msgid ""
 "Yes, yes, I understand. You will kill my wife and daughter. I want to know "
 "why you want him assassinated?"
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:96
 msgid ""
 "He has our orcs pinned down in the mountains east of his castle. Satisfied?"
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:97
 msgid "I suppose..."
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:100
 msgid ""
 "Randalf, you must go to Raajal's mine and tell the liches guarding the "
 "entrance that you wish to enter."
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:101
 msgid "They will kill me on sight!"
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:102
 msgid ""
 "Perhaps, but Raajal is still looking for an apprentice. He might allow you "
 "to complete your training."
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:103
 msgid "You want me to become his apprentice?"
 msgstr ""
 
+#. event: (description=Agatha) 11 5}
 #: Raajal/scenarios/15_Three_Missions.cfg:104
 msgid "We want you to try. Whether or not you succeed is of little importance."
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day1_Angalas.cfg:4
 msgid "Day 1 - Angalas"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:95
 msgid "Theomund should reach the shores of Wesnoth by tomorrow evening."
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:96
 msgid "Randalf is about to speak with Khal."
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:101
 msgid "And now he is dead."
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:102
 msgid "That was quick. How is Zilead doing?"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:103
 msgid "He is nearing the cave."
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:108
 msgid "He made it inside."
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:109
 msgid "Excellent. All is going according to plan. Let us prepare..."
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
+#. event: (description=Zilead) 11 8}, description=Zilead, description=Zilead, (description=Jezebel) 11 9}, (description=Amelia) 10 8}, (description=Delora) 10 7}, (description=Mildred) 11 7}
 #: Raajal/scenarios/Day1_Angalas.cfg:110 Raajal/scenarios/Day1_Zilead.cfg:55
 msgid "Get out of the cave, Zilead!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
+#. event: (description=Zilead) 11 8}, description=Zilead, description=Zilead, (description=Jezebel) 11 9}, (description=Amelia) 10 8}, (description=Delora) 10 7}, (description=Mildred) 11 7}
 #: Raajal/scenarios/Day1_Angalas.cfg:115 Raajal/scenarios/Day1_Zilead.cfg:63
 msgid "Move!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:116
 msgid "What is happening?"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:117
 msgid "Ursula's sisters are in the cave."
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:122
 msgid "Zilead is dead!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:123
 msgid "Liar!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:124
 msgid "Ardella, kill your children!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:125
 msgid "No, momma!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:126
 msgid "Don't you remember us?"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:127
 msgid "Don't listen to them!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:128
 msgid "We love you!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:133
 msgid "What are you waiting for?"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:134
 msgid ""
 "Ardella, look into your children's eyes. Concentrate. Remember your love for "
 "them."
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:135
 msgid "Please, momma, don't hurt us!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:140
 msgid "Now, Ardella!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:150
 msgid "Fly away, children!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:152
 msgid "Quickly!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:164
 msgid "After them!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:171
 msgid "You will all pay for this treachery!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:172
 msgid "We need them alive, Glenda!"
 msgstr ""
 
+#. event: (description=Zeke) 16 20}, (description=Anna) 18 20}
 #: Raajal/scenarios/Day1_Angalas.cfg:173
 msgid "We do not need them all. Let the battle begin!"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day1_Randalf.cfg:4
 msgid "Day 1 - Randalf"
 msgstr ""
 
+#. event
+#. event: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
+#. event: (description=Raajal) 4 5}, description=Raajal no}, (description=Raajal) facing sw}
 #: Raajal/scenarios/Day1_Randalf.cfg:40 Raajal/scenarios/Day2_Randalf.cfg:54
 #: Raajal/scenarios/Day2_Red_Sea.cfg:54
 msgid "Khal"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/Day1_Randalf.cfg:43 Raajal/scenarios/Day2_Randalf.cfg:32
 msgid "Elrich"
 msgstr ""
 
+#. event: (description=Randalf) 15 20}, (description=Randalf) 17 18}
 #: Raajal/scenarios/Day1_Randalf.cfg:64
 msgid "You know why I am..."
 msgstr ""
 
+#. event: (description=Khal) 9 17}
 #: Raajal/scenarios/Day1_Randalf.cfg:118
 msgid "I will get Master. Keep an eye on the wizard."
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day1_Zilead.cfg:4
 msgid "Day 1 - Zilead"
 msgstr ""
 
+#. event: (description=Zilead) 11 8}, description=Zilead, description=Zilead, (description=Jezebel) 11 9}, (description=Amelia) 10 8}, (description=Delora) 10 7}, (description=Mildred) 11 7}
 #: Raajal/scenarios/Day1_Zilead.cfg:50
 msgid "What could that be?"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day2_Angalas.cfg:4
 msgid "Day 2 - Angalas"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day2_Angalas.cfg:274
 msgid "Leana!"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day2_Angalas.cfg:275
 msgid "Rogan!"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day2_Angalas.cfg:276
 msgid "Mother!"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day2_Angalas.cfg:276
 msgid "Queen Edina!"
 msgstr ""
 
+#. event: type=Witch no}
 #: Raajal/scenarios/Day2_Angalas.cfg:285
 msgid "Stop this madness at once!"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day2_Anna_and_Zeke1.cfg:4
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:4
 msgid "Day 2 - Anna and Zeke"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:115
 msgid "Balthor!"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:122
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:154
 msgid "Balthor"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:125
 msgid "We need your help!"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:126
 msgid "Witches..."
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:127
 msgid "They are trying to kill us!"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:128
 msgid "They kidnapped momma!"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:129
 msgid "They said father is dead!"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:130
 msgid "But he isn't!"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:131
 msgid "Mother is at Angalas!"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:132
 msgid "They're going to kill her!"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:133
 msgid "We have to save them!"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:140
 msgid ""
 "I do not understand... Anna, please start from the beginning. Tell me what "
 "happened."
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:144
 msgid "There is no escape, you little brats! Accept your fate!"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:145
 msgid "Hop on!"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:158
 msgid "If you want them, come and get them!"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:161
 msgid "You cannot defeat me, serpent. Give me the children!"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:162
 msgid ""
 "You are in no position to make demands, witch! Sharks of Eliador, rise from "
 "the depths!"
 msgstr ""
 
+#. event: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:171
 msgid "Tear her limb from limb!"
 msgstr ""
 
+#. event: type=Witch no}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:213
 msgid "Stop! I've had enough! Let me go! I promise not to harm the children!"
 msgstr ""
 
+#. event: type=Witch no}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:214
 msgid ""
 "I know how persistent you witches can be. If we do not reach some sort of "
 "agreement, Anna and Zeke will never be safe."
 msgstr ""
 
+#. event: type=Witch no}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:215
 msgid "First, tell me the fate of their parents."
 msgstr ""
 
+#. event: type=Witch no}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:216
 msgid ""
 "Ardella was alive when I left Angalas and Zilead is almost certainly dead."
 msgstr ""
 
+#. event: type=Witch no}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:217
 msgid "I want to know everything and please start from the beginning."
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day2_Randalf.cfg:4
 msgid "Day 2 - Randalf"
 msgstr ""
 
+#. event: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:63
 msgid ""
 "I have been searching for a worthy apprentice for many years to no avail. "
 "You were the only one that showed any promise."
 msgstr ""
 
+#. event: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:68
 msgid "Arise, Randalf."
 msgstr ""
 
+#. event: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:73
 msgid "Get up!"
 msgstr ""
 
+#. event: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:82
 msgid "Why did the witches send you here? What are they up to?"
 msgstr ""
 
+#. event: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:87
 msgid "Answer me!"
 msgstr ""
 
+#. event: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:89
 msgid "They fear you, Raajal. They want you to stop trying to hunt them down."
 msgstr ""
 
+#. event: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:90
 msgid ""
 "They think by destroying you, my thirst for revenge will be quenched? And "
 "you came here willingly? You expect me to believe that?"
 msgstr ""
 
+#. event: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:91
 msgid "They are holding friends of mine hostage...."
 msgstr ""
 
+#. event: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:92
 msgid "All right. Where are they? Where are the witches?"
 msgstr ""
 
+#. event: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:93
 msgid "I cannot say. I will not put my friends in any more danger."
 msgstr ""
 
+#. event: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:94
 msgid "Then you leave me no choice."
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day2_Red_Sea.cfg:4
 msgid "Day 2 - Red Sea"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/Day2_Red_Sea.cfg:30
 msgid "Mordoc"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/Day2_Red_Sea.cfg:31
 msgid "Gwurag"
 msgstr ""
 
+#. event: (description=Raajal) 4 5}, description=Raajal no}, (description=Raajal) facing sw}
 #: Raajal/scenarios/Day2_Red_Sea.cfg:55
 msgid "We have him, master. We have Randalf."
 msgstr ""
 
+#. event: (description=Raajal) 4 5}, description=Raajal no}, (description=Raajal) facing sw}
 #: Raajal/scenarios/Day2_Red_Sea.cfg:56
 msgid "Finally, after all these years, vengeance will be mine!"
 msgstr ""
 
+#. event: (description=Raajal) 4 5}, description=Raajal no}, (description=Raajal) facing sw}
 #: Raajal/scenarios/Day2_Red_Sea.cfg:63
 msgid ""
 "Mordoc, when the prisoner regains consciousness, I want you to torture him "
 "until he tells you everything."
 msgstr ""
 
+#. event: (description=Raajal) 4 5}, description=Raajal no}, (description=Raajal) facing sw}
 #: Raajal/scenarios/Day2_Red_Sea.cfg:64
 msgid "It will be done, master."
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day2_Theomund.cfg:4
 msgid "Day 2 - King Theomund"
 msgstr ""
 
+#. event: description=King Theomund, description=King Theomund, description=King Theomund, (description=King Theomund) no}, (description=Horomir) no}
 #: Raajal/scenarios/Day2_Theomund.cfg:56
 msgid "What now?"
 msgstr ""
 
+#. event: description=King Theomund, description=King Theomund, description=King Theomund, (description=King Theomund) no}, (description=Horomir) no}
 #: Raajal/scenarios/Day2_Theomund.cfg:60
 msgid "You must make your way to Barruk's castle."
 msgstr ""
 
+#. event: description=King Theomund, description=King Theomund, description=King Theomund, (description=King Theomund) no}, (description=Horomir) no}
 #: Raajal/scenarios/Day2_Theomund.cfg:61
 msgid "Barruk?"
 msgstr ""
 
+#. event: description=King Theomund, description=King Theomund, description=King Theomund, (description=King Theomund) no}, (description=Horomir) no}
 #: Raajal/scenarios/Day2_Theomund.cfg:62
 msgid "Father?"
 msgstr ""
 
+#. event: description=King Theomund, description=King Theomund, description=King Theomund, (description=King Theomund) no}, (description=Horomir) no}
 #: Raajal/scenarios/Day2_Theomund.cfg:66
 msgid ""
 "He is the commander of our orcs. His castle is in the mountains east of "
 "Hector's territory."
 msgstr ""
 
+#. event: description=King Theomund, description=King Theomund, description=King Theomund, (description=King Theomund) no}, (description=Horomir) no}
 #: Raajal/scenarios/Day2_Theomund.cfg:67
 msgid "And why..."
 msgstr ""
 
+#. event: description=King Theomund, description=King Theomund, description=King Theomund, (description=King Theomund) no}, (description=Horomir) no}
 #: Raajal/scenarios/Day2_Theomund.cfg:71
 msgid ""
 "Just do as your told! I will give you further instructions after you reach "
 "the castle."
 msgstr ""
 
+#. event: description=King Theomund, description=King Theomund, description=King Theomund, (description=King Theomund) no}, (description=Horomir) no}
 #: Raajal/scenarios/Day2_Theomund.cfg:72
 msgid "What is the plan, father? How are we to defeat Gerald II?"
 msgstr ""
 
+#. event: description=King Theomund, description=King Theomund, description=King Theomund, (description=King Theomund) no}, (description=Horomir) no}
 #: Raajal/scenarios/Day2_Theomund.cfg:73
 msgid "We must go to Barruk's castle."
 msgstr ""
 
+#. event: description=King Theomund, description=King Theomund, description=King Theomund, (description=King Theomund) no}, (description=Horomir) no}
 #: Raajal/scenarios/Day2_Theomund.cfg:74
 msgid "Who is Barruk?"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day3_Randalf.cfg:4
 msgid "Day 3 - Randalf"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day3_Red_Sea.cfg:4
 msgid "Day 3 - Red_Sea"
 msgstr ""
 
+#. scenario
 #: Raajal/scenarios/Day3_Theomund.cfg:4
 msgid "Day 3 - King Theomund"
 msgstr ""
 
+#. event: role=patrol}, role=patrol}
 #: Raajal/scenarios/Day3_Theomund.cfg:40
 msgid "Hadwin"
 msgstr ""
 
+#. event: role=patrol}, role=patrol}
 #: Raajal/scenarios/Day3_Theomund.cfg:43
 msgid "Hector"
 msgstr ""
 
+#. event: role=patrol}, role=patrol}
 #: Raajal/scenarios/Day3_Theomund.cfg:44
 msgid "Marcus"
 msgstr ""
 
+#. event: role=patrol}, role=patrol}
 #: Raajal/scenarios/Day3_Theomund.cfg:50
 msgid "King Gerald II"
 msgstr ""
 
+#. event: role=patrol}, role=patrol}
 #: Raajal/scenarios/Day3_Theomund.cfg:51
 msgid "Jarrett"
 msgstr ""
 
+#. event: role=patrol}, role=patrol}
 #: Raajal/scenarios/Day3_Theomund.cfg:54
 msgid "Julius"
 msgstr ""
 
+#. event: role=patrol}, role=patrol}
 #: Raajal/scenarios/Day3_Theomund.cfg:59
 msgid "Barruk"
 msgstr ""
 
+#. event: role=patrol}, role=patrol}
 #: Raajal/scenarios/Day3_Theomund.cfg:62
 msgid "Olag"
 msgstr ""
 
+#. event: role=patrol}, role=patrol}
 #: Raajal/scenarios/Day3_Theomund.cfg:63
 msgid "Igok"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/Day3_Theomund.cfg:100
 msgid ""
 "Before we begin, I want to make certain you two understand what needs to be "
 "done."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/Day3_Theomund.cfg:101
 msgid "I understand, father. There is no other option."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/Day3_Theomund.cfg:102
 msgid "Hadwin?"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/Day3_Theomund.cfg:107
 msgid ""
 "Answer him, you treacherous scoundrel, or we'll take you back to the dungeon!"
 msgstr ""
 
+#. event
 #: Raajal/scenarios/Day3_Theomund.cfg:108
 msgid "I understand."
 msgstr ""
 
+#. event
 #: Raajal/scenarios/Day3_Theomund.cfg:109
 msgid "Good. Wait here while I speak with Barruk."
 msgstr ""
 
+#. variation: race=human
+#. unit: race=human
 #: Raajal/units/Battle_Princess.cfg:5 Raajal/units/Battle_Princess.cfg:58
 msgid "female^Battle Princess"
 msgstr ""
 
+#. variation: race=human
+#. unit: race=human
 #: Raajal/units/Battle_Princess.cfg:32 Raajal/units/Battle_Princess.cfg:84
 msgid ""
 "A noble by birth, the Princess has learnt swordplay with the greatest "
@@ -2360,26 +2937,32 @@ msgid ""
 "now aid those around her in the art of combat."
 msgstr ""
 
+#. attack: type=blade
 #: Raajal/units/Battle_Princess.cfg:36 Raajal/units/Battle_Princess.cfg:88
 msgid "sabre"
 msgstr ""
 
+#. attack: type=fire
 #: Raajal/units/Battle_Princess.cfg:97
 msgid "scepter of fire"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Blonde_Kid.cfg:5
 msgid "Blonde Kid"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Brunette_Kid.cfg:5
 msgid "Brunette Kid"
 msgstr ""
 
+#. unit: race=monster
 #: Raajal/units/Cockatrice.cfg:5
 msgid "Cockatrice"
 msgstr ""
 
+#. unit: race=monster
 #: Raajal/units/Cockatrice.cfg:18
 msgid ""
 "Sometimes known as 'basilisks', these mystical creatures are said to be able "
@@ -2387,14 +2970,19 @@ msgid ""
 "dangerous."
 msgstr ""
 
+#. attack: type=cold
 #: Raajal/units/Cockatrice.cfg:22
 msgid "gaze"
 msgstr ""
 
+#. variation: race=human
+#. unit: race=human
 #: Raajal/units/Dark_Queen.cfg:5 Raajal/units/Dark_Queen.cfg:46
 msgid "female^Dark Queen"
 msgstr ""
 
+#. variation: race=human
+#. unit: race=human
 #: Raajal/units/Dark_Queen.cfg:20 Raajal/units/Dark_Queen.cfg:61
 msgid ""
 "The evil queen mother Asheviere has terrorized Wesnoth for many years. Her "
@@ -2402,18 +2990,22 @@ msgid ""
 "mostly derived from those she commands."
 msgstr ""
 
+#. attack: type=impact
 #: Raajal/units/Dark_Queen.cfg:24
 msgid "scepter"
 msgstr ""
 
+#. attack: type=cold
 #: Raajal/units/Dark_Queen.cfg:33
 msgid "cold"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Elder_Mage_Dagger.cfg:4 Raajal/units/Elder_Mage.cfg:5
 msgid "Elder Mage"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Elder_Mage.cfg:24
 msgid ""
 "Once great, Elder Magi have seen their power a little diminished from "
@@ -2421,19 +3013,24 @@ msgid ""
 "on account of their powerful lightning bolts."
 msgstr ""
 
+#. attack: type=impact
 #: Raajal/units/Lost_Soul.cfg:1096 Raajal/units/Elder_Mage.cfg:27
 #: Raajal/units/Outlaw_Queen.cfg:96
 msgid "staff"
 msgstr ""
 
+#. attack: type=fire
 #: Raajal/units/Elder_Mage.cfg:36
 msgid "lightning"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/General_Headless.cfg:5 Raajal/units/General_Emotive.cfg:6
 msgid "General"
 msgstr ""
 
+#. unit: race=human
+#. unit: race=undead
 #: Raajal/units/General_Headless.cfg:18 Raajal/units/Raajal_Power.cfg:18
 #: Raajal/units/General_Emotive.cfg:19 Raajal/units/Raajal.cfg:18
 msgid ""
@@ -2455,6 +3052,7 @@ msgid ""
 "recruits."
 msgstr ""
 
+#. attack: type=blade
 #: Raajal/units/Gladiator_Ranger.cfg:75 Raajal/units/Gladiator_Archer.cfg:29
 #: Raajal/units/Noble_Lord.cfg:43 Raajal/units/Royal_Guard_Hero.cfg:29
 #: Raajal/units/Lost_Soul.cfg:93 Raajal/units/Lost_Soul.cfg:257
@@ -2467,6 +3065,7 @@ msgstr ""
 msgid "sword"
 msgstr ""
 
+#. attack: type=pierce
 #: Raajal/units/Gladiator_Ranger.cfg:84 Raajal/units/Gladiator_Archer.cfg:38
 #: Raajal/units/Noble_Lord.cfg:52 Raajal/units/Lost_Soul.cfg:102
 #: Raajal/units/Lost_Soul.cfg:972 Raajal/units/Lost_Soul.cfg:1292
@@ -2510,6 +3109,7 @@ msgid ""
 "Special Notes:"
 msgstr ""
 
+#. attack: type=pierce
 #: Raajal/units/Lost_Soul.cfg:266 Raajal/units/Lost_Soul.cfg:390
 #: Raajal/units/Gladiator_Marksman.cfg:79
 #: Raajal/units/Gladiator_Sharpshooter.cfg:73
@@ -2545,28 +3145,34 @@ msgid ""
 "Special Notes:"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Gryphon_Rider_Boy.cfg:5
 msgid "Gryphon Boy"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Gryphon_Rider_Girl.cfg:20
 #: Raajal/units/Gryphon_Rider_Boy.cfg:20
 msgid "An outlaw kid riding a gryphon."
 msgstr ""
 
+#. attack: type=blade
 #: Raajal/units/Gryphon_Rider_Girl.cfg:33
 #: Raajal/units/Gryphon_Rider_Boy.cfg:33 Raajal/units/Gryphon_Rider_Boy.cfg:63
 msgid "claws"
 msgstr ""
 
+#. female
 #: Raajal/units/Gryphon_Rider_Boy.cfg:51
 msgid "female^Gryphon Kid"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Gryphon_Rider_Girl.cfg:5
 msgid "Gryphon Girl"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Kid_Horse.cfg:6
 msgid "Child"
 msgstr ""
@@ -2579,55 +3185,68 @@ msgstr ""
 msgid "Lost souls."
 msgstr ""
 
+#. attack: type=impact
 #: Raajal/units/Lost_Soul.cfg:81 Raajal/units/Lost_Soul.cfg:1157
 #: Raajal/units/Lost_Soul.cfg:1180 Raajal/units/Lost_Soul.cfg:1203
 msgid "bump"
 msgstr ""
 
+#. attack: type=blade
 #: Raajal/units/Lost_Soul.cfg:498
 msgid "battle axe"
 msgstr ""
 
+#. attack: type=impact
 #: Raajal/units/Lost_Soul.cfg:507
 msgid "hammer"
 msgstr ""
 
+#. attack: type=blade
 #: Raajal/units/Lost_Soul.cfg:515
 msgid "hatchet"
 msgstr ""
 
+#. attack: type=blade
 #: Raajal/units/Lost_Soul.cfg:623
 msgid "berserker frenzy"
 msgstr ""
 
+#. attack: type=blade
 #: Raajal/units/Lost_Soul.cfg:704
 msgid "dagger"
 msgstr ""
 
+#. attack: type=pierce
 #: Raajal/units/Lost_Soul.cfg:713
 msgid "dragonstaff"
 msgstr ""
 
+#. attack: type=blade
 #: Raajal/units/Lost_Soul.cfg:910
 msgid "broom"
 msgstr ""
 
+#. attack: type=pierce
 #: Raajal/units/Lost_Soul.cfg:918 Raajal/units/Witch.cfg:75
 msgid "curse"
 msgstr ""
 
+#. attack: type=impact
 #: Raajal/units/Lost_Soul.cfg:1105 Raajal/units/Outlaw_Queen.cfg:105
 msgid "sling"
 msgstr ""
 
+#. attack: type=pierce
 #: Raajal/units/Lost_Soul.cfg:1453
 msgid "lance"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Noble_Lord.cfg:5
 msgid "Noble Lord"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Noble_Lord.cfg:39
 msgid ""
 "The noble leaders of many troops, Lords are especially strong in melee "
@@ -2636,15 +3255,18 @@ msgid ""
 "level units."
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Oracle_Glow_Small.cfg:6 Raajal/units/Oracle_Glow_Big.cfg:6
 #: Raajal/units/Oracle.cfg:6
 msgid "Dark Adept"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Outlaw_Queen.cfg:5
 msgid "female^Outlaw Queen"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Outlaw_Queen.cfg:27
 msgid ""
 "A noble by birth, the Outlaw Queen has learnt swordplay with the greatest "
@@ -2655,22 +3277,27 @@ msgid ""
 "that goal."
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Outlaw_Queen2.cfg:5
 msgid "female^Outlaw Queen2"
 msgstr ""
 
+#. unit: race=undead
 #: Raajal/units/Raajal_Power.cfg:5 Raajal/units/Raajal.cfg:5
 msgid "Undead General"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Redheaded_Kid.cfg:5
 msgid "Redheaded Kid"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Royal_Guard_Hero.cfg:5
 msgid "Royal Guard"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Royal_Guard_Hero.cfg:20
 msgid ""
 "Royal Guards are picked from the best swordsmen in Wesnoth. Serving under "
@@ -2683,35 +3310,42 @@ msgid ""
 "they are well-renowned."
 msgstr ""
 
+#. unit: race=monster
 #: Raajal/units/Sea_Serpent_Anna.cfg:5 Raajal/units/Sea_Serpent_Kids.cfg:5
 #: Raajal/units/Sea_Serpent.cfg:5 Raajal/units/Sea_Serpent_Zeke.cfg:5
 msgid "Sea Serpent"
 msgstr ""
 
+#. unit: race=monster
 #: Raajal/units/Sea_Serpent_Anna.cfg:22 Raajal/units/Sea_Serpent_Kids.cfg:22
 #: Raajal/units/Sea_Serpent.cfg:22 Raajal/units/Sea_Serpent_Zeke.cfg:22
 msgid ""
 "Sea Serpents are gigantic monsters, capable of capsizing boats by themselves."
 msgstr ""
 
+#. attack: type=pierce
 #: Raajal/units/Shark.cfg:46 Raajal/units/Sea_Serpent_Anna.cfg:27
 #: Raajal/units/Sea_Serpent_Kids.cfg:27 Raajal/units/Sea_Serpent.cfg:27
 #: Raajal/units/Sea_Serpent_Zeke.cfg:27
 msgid "fangs"
 msgstr ""
 
+#. unit: race=monster
 #: Raajal/units/Shark.cfg:4
 msgid "Shark"
 msgstr ""
 
+#. unit: race=monster
 #: Raajal/units/Shark.cfg:17
 msgid "Da-dum... Da-dum... Da-dum ..."
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Warrior_King.cfg:5
 msgid "Warrior King"
 msgstr ""
 
+#. unit: race=human
 #: Raajal/units/Warrior_King.cfg:24
 msgid ""
 "As the leaders of the human Kingdoms, Kings are responsible for ruling and "
@@ -2719,18 +3353,22 @@ msgid ""
 "units, thereby increasing their fighting efficiency."
 msgstr ""
 
+#. attack: type=impact
 #: Raajal/units/Warrior_King.cfg:28
 msgid "mace"
 msgstr ""
 
+#. unit: race=undead
 #: Raajal/units/Witch.cfg:5
 msgid "Witch"
 msgstr ""
 
+#. unit: race=undead
 #: Raajal/units/Witch.cfg:17
 msgid "A witch! Burn her!"
 msgstr ""
 
+#. attack: type=blade
 #: Raajal/units/Witch.cfg:66
 msgid "broom poke"
 msgstr ""
