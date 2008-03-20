@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-03-17 14:17+0100\n"
+"POT-Creation-Date: 2008-03-20 16:58+0100\n"
 "PO-Revision-Date: 2008-03-15 19:12+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -664,9 +664,8 @@ msgstr ""
 msgid "Conqueror"
 msgstr ""
 
-#. event: role=patrol}, role=patrol}
 #. event
-#: Raajal/scenarios/Day3_Theomund.cfg:39 Raajal/scenarios/04_Overboard.cfg:307
+#: Raajal/scenarios/04_Overboard.cfg:307
 msgid "Horomir"
 msgstr ""
 
@@ -934,12 +933,11 @@ msgstr ""
 msgid "Who else is aboard the galleon? It is safe to come out."
 msgstr ""
 
-#. event: role=patrol}, role=patrol}
 #. event: description=Zilead 6 3}, description=Ardella 5 3}, description=Zeke 5 4}, description=Anna 6 2}, description=Zilead yes}, description=Ardella yes}, description=Randalf yes}, (description=King Theomund) yes}, (description=Queen Edina) yes}, (description=Rogan) yes}, (description=Leana) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #. event: (description=$desc) 1 1}, (type=Pirate Galleon) no}, (description=$desc) $x $y}, description=Horomir no}
 #. event
-#: Raajal/scenarios/Day3_Theomund.cfg:36 Raajal/scenarios/04_Overboard.cfg:476
-#: Raajal/scenarios/04_Overboard.cfg:893 Raajal/scenarios/Day2_Theomund.cfg:40
+#: Raajal/scenarios/04_Overboard.cfg:476 Raajal/scenarios/04_Overboard.cfg:893
+#: Raajal/scenarios/Day2_Theomund.cfg:40
 msgid "King Theomund"
 msgstr ""
 
@@ -2842,84 +2840,6 @@ msgstr ""
 #. scenario
 #: Raajal/scenarios/Day3_Theomund.cfg:4
 msgid "Day 3 - King Theomund"
-msgstr ""
-
-#. event: role=patrol}, role=patrol}
-#: Raajal/scenarios/Day3_Theomund.cfg:40
-msgid "Hadwin"
-msgstr ""
-
-#. event: role=patrol}, role=patrol}
-#: Raajal/scenarios/Day3_Theomund.cfg:43
-msgid "Hector"
-msgstr ""
-
-#. event: role=patrol}, role=patrol}
-#: Raajal/scenarios/Day3_Theomund.cfg:44
-msgid "Marcus"
-msgstr ""
-
-#. event: role=patrol}, role=patrol}
-#: Raajal/scenarios/Day3_Theomund.cfg:50
-msgid "King Gerald II"
-msgstr ""
-
-#. event: role=patrol}, role=patrol}
-#: Raajal/scenarios/Day3_Theomund.cfg:51
-msgid "Jarrett"
-msgstr ""
-
-#. event: role=patrol}, role=patrol}
-#: Raajal/scenarios/Day3_Theomund.cfg:54
-msgid "Julius"
-msgstr ""
-
-#. event: role=patrol}, role=patrol}
-#: Raajal/scenarios/Day3_Theomund.cfg:59
-msgid "Barruk"
-msgstr ""
-
-#. event: role=patrol}, role=patrol}
-#: Raajal/scenarios/Day3_Theomund.cfg:62
-msgid "Olag"
-msgstr ""
-
-#. event: role=patrol}, role=patrol}
-#: Raajal/scenarios/Day3_Theomund.cfg:63
-msgid "Igok"
-msgstr ""
-
-#. event
-#: Raajal/scenarios/Day3_Theomund.cfg:100
-msgid ""
-"Before we begin, I want to make certain you two understand what needs to be "
-"done."
-msgstr ""
-
-#. event
-#: Raajal/scenarios/Day3_Theomund.cfg:101
-msgid "I understand, father. There is no other option."
-msgstr ""
-
-#. event
-#: Raajal/scenarios/Day3_Theomund.cfg:102
-msgid "Hadwin?"
-msgstr ""
-
-#. event
-#: Raajal/scenarios/Day3_Theomund.cfg:107
-msgid ""
-"Answer him, you treacherous scoundrel, or we'll take you back to the dungeon!"
-msgstr ""
-
-#. event
-#: Raajal/scenarios/Day3_Theomund.cfg:108
-msgid "I understand."
-msgstr ""
-
-#. event
-#: Raajal/scenarios/Day3_Theomund.cfg:109
-msgid "Good. Wait here while I speak with Barruk."
 msgstr ""
 
 #. variation: race=human
