@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-05-01 17:08+0200\n"
-"PO-Revision-Date: 2008-04-26 17:05+0100\n"
-"Last-Translator: Damien J <guydelatourATgloireetpouvoir.com>\n"
+"PO-Revision-Date: 2008-05-02 23:25+0100\n"
+"Last-Translator: Damien J <guydelatourATgloireetpouvoirPTcom>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,21 +21,18 @@ msgstr ""
 msgid "Raajal"
 msgstr "Raajal"
 
+# Abv de Raajal
 #. [campaign]
 #: Raajal/_main.cfg:9
 msgid "RAAJAL"
-msgstr ""
+msgstr "RAL"
 
 #. [campaign]
 #: Raajal/_main.cfg:10
-#, fuzzy
 msgid ""
 "An Arch Mage with the power of resurrection seeks a new apprentice. Version"
 msgstr ""
-"Un archimage doté du pouvoir de résurrection recherche un nouvel apprenti.\n"
-"\n"
-"Remarque : les trois derniers scénarios sont en train d'être peaufinés.\n"
-"\n"
+"Un archimage doté du pouvoir de résurrection recherche un nouvel apprenti. "
 "Version"
 
 #. [campaign]
@@ -85,7 +82,7 @@ msgstr "Qu'ai-je fait pour mériter ce destin ?"
 #. [event]
 #: Raajal/scenarios/01_Resurrection.cfg:129
 msgid "Answer me, you putrid slime!"
-msgstr "Réponds-moi, espèce de sale ingrat !"
+msgstr "Répondez-moi, espèce de sale ingrat !"
 
 #. [event]
 #: Raajal/scenarios/01_Resurrection.cfg:135
@@ -534,25 +531,24 @@ msgstr "Ne faites pas attention à lui. Il n'osera pas nous attaquer."
 #. [objective]: condition=win
 #: Raajal/scenarios/02_A_New_Vitality.cfg:243
 msgid "Kill 7 elves and 7 dwarves"
-msgstr ""
+msgstr "Tuer 7 elfes et 7 nains"
 
 #. [objective]: condition=lose
 #: Raajal/scenarios/02_A_New_Vitality.cfg:247
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:125
 #: Raajal/utils/mission-red-sea.cfg:394
-#, fuzzy
 msgid "Death of Raajal"
-msgstr "Elle parle de Raajal."
+msgstr "Mort de Raajal"
 
 #. [objective]: condition=lose
 #: Raajal/scenarios/02_A_New_Vitality.cfg:251
 msgid "Not enough elves remain"
-msgstr ""
+msgstr "Il ne reste pas assez d'elfes"
 
 #. [objective]: condition=lose
 #: Raajal/scenarios/02_A_New_Vitality.cfg:255
 msgid "Not enough dwarves remain"
-msgstr ""
+msgstr "Il ne reste pas assez de nains"
 
 #. [event]
 #: Raajal/scenarios/02_A_New_Vitality.cfg:323
@@ -717,22 +713,23 @@ msgid ""
 "An overboard unit will be rescued if a galleon is adjacent to it at the end "
 "of your turn (maximum 4 rescues per galleon)"
 msgstr ""
+"Une unité passée par-dessus bord sera secourue si un galion s'approche juste "
+"à côté à la fin de votre tour (4 unités sauvées par galion au maximum)"
 
 #. [objective]: condition=win
 #: Raajal/scenarios/04_Overboard.cfg:284
 msgid "End of turns"
-msgstr ""
+msgstr "Fin des tours"
 
 #. [objective]: condition=win
 #: Raajal/scenarios/04_Overboard.cfg:288
 msgid "Or, kill 1 witch"
-msgstr ""
+msgstr "Ou tuer une sorcière"
 
 #. [objective]: condition=lose
 #: Raajal/scenarios/04_Overboard.cfg:292
-#, fuzzy
 msgid "Death of Horomir"
-msgstr "Horomir"
+msgstr "Mort de Horomir"
 
 #. [event]
 #: Raajal/scenarios/04_Overboard.cfg:308
@@ -1353,12 +1350,11 @@ msgstr "Je suppose que vous vous demandez pourquoi vous avez été appelés."
 
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:176
-#, fuzzy
 msgid ""
 "There exists a being who has caused us all great grief. With your help, we "
 "believe we can finally end his reign of terror."
 msgstr ""
-"Il existe un être qui nous à causé à tous un très grand tort. Nous pensons "
+"Il existe quelqu'un qui nous à causé à tous un très grand tort. Nous pensons "
 "mettre un terme à son règne de terreur grâce à vous."
 
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
@@ -1382,7 +1378,7 @@ msgid ""
 "I was hoping I would never have to tell you about him. Agatha is right. We "
 "have all suffered because of Raajal."
 msgstr ""
-"J'espérais ne jamais avoir a vous parler de lui. Agatha a raison. Nous avons "
+"J'espérais ne jamais avoir à vous parler de lui. Agatha a raison. Nous avons "
 "tous souffert à cause de Raajal."
 
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
@@ -1592,17 +1588,20 @@ msgid ""
 "(2) Each turn, you get one skeleton for each leader on a keep\n"
 "(3) Raajal has 200 skeletons"
 msgstr ""
+"\n"
+"(1) Un squelette devient un commandant s'il tue un chef ennemi\n"
+"(2) Chaque tour, vous obtenez un squelette par chef sur un donjon\n"
+"(3) Raajal a 200 squelettes"
 
 #. [objective]: condition=win
 #: Raajal/scenarios/08_The_Apprentice.cfg:87
 msgid "Kill all players"
-msgstr ""
+msgstr "Tuer tous les joueurs"
 
 #. [objective]: condition=lose
 #: Raajal/scenarios/08_The_Apprentice.cfg:91
-#, fuzzy
 msgid "Death of Randalf"
-msgstr "Jour 1 - Randalf"
+msgstr "Mort de Randalf"
 
 #. [event]
 #: Raajal/scenarios/08_The_Apprentice.cfg:102
@@ -2034,7 +2033,7 @@ msgstr "Pourquoi les a-t-il épargnés ?"
 msgid ""
 "Apparently, he does not want his identity known until I arrive at the castle."
 msgstr ""
-"Apparemment, il ne veut pas être reconnu jusqu'à ce qu'il arrive au château."
+"Apparemment, il ne veut pas être reconnu jusqu'à ce que j'arrive au château."
 
 #. [event]
 #: Raajal/scenarios/11_Ursulas_Sisters.cfg:61
@@ -2193,21 +2192,24 @@ msgid ""
 "witches arrive, and Theomund's reinforcements arrive. Hint: Don't make "
 "Raajal too powerful"
 msgstr ""
+"Après avoir attaqué les gardes du château, Raajal invoque son armée d'âmes, "
+"les sorcières arrivent, les renforts de Theomund arrivent. Astuce : ne "
+"rendez pas Raajal trop puissant"
 
 #. [objective]: condition=win
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:121
 msgid "Kill all witches"
-msgstr ""
+msgstr "Tuer toutes les sorcières"
 
 #. [objective]: condition=lose
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:129
 msgid "A human kills a witch"
-msgstr ""
+msgstr "Un humain tue une sorcière"
 
 #. [objective]: condition=lose
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:133
 msgid "Turns run out"
-msgstr ""
+msgstr "Fin des tours atteinte"
 
 #. [event]: (description=Raajal)}
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:158
@@ -2789,23 +2791,22 @@ msgstr "Jour 2 - Angalas"
 #. [objectives]
 #: Raajal/scenarios/Day2_Angalas.cfg:99
 msgid "Each turn, the elf closest to a human will enter the arena"
-msgstr ""
+msgstr "Chaque tour, l'elfe le plus proche d'un humain entrera dans l'arène"
 
 #. [objective]: condition=win
 #: Raajal/scenarios/Day2_Angalas.cfg:101
 msgid "Only Ardella remains"
-msgstr ""
+msgstr "Seule Ardella reste"
 
 #. [objective]: condition=win
 #: Raajal/scenarios/Day2_Angalas.cfg:105
 msgid "Or, end of turns"
-msgstr ""
+msgstr "Ou fin des tours"
 
 #. [objective]: condition=lose
 #: Raajal/scenarios/Day2_Angalas.cfg:109
-#, fuzzy
 msgid "Death of Ardella"
-msgstr "Maintenant, Ardella !"
+msgstr "Mort d'Ardella"
 
 #. [scenario]
 #: Raajal/scenarios/Day2_Angalas.cfg:265 Raajal/utils/mission-red-sea.cfg:1676
@@ -2830,7 +2831,7 @@ msgstr "Reine Edina !"
 #. [event]: type=Witch no}
 #: Raajal/scenarios/Day2_Angalas.cfg:276
 msgid "Leave my momma alone!"
-msgstr ""
+msgstr "Laissez seule ma maman !"
 
 #. [scenario]
 #: Raajal/scenarios/Day2_Anna_and_Zeke1.cfg:4
@@ -2982,7 +2983,6 @@ msgstr "Jour 2 - Randalf"
 
 #. [event]: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:63
-#, fuzzy
 msgid ""
 "I have been searching for a worthy apprentice for many years to no avail. "
 "You were the only one who showed any promise."
@@ -3136,7 +3136,7 @@ msgid ""
 "the castle."
 msgstr ""
 "Faites simplement ce que vous avez promis ! Je vous donnerai des "
-"instructions complémentaires quand vous aurez atteind le château."
+"instructions complémentaires quand vous aurez atteint le château."
 
 #. [event]: description=King Theomund, description=King Theomund, description=King Theomund, (description=King Theomund) no}, (description=Horomir) no}
 #: Raajal/scenarios/Day2_Theomund.cfg:72
@@ -3821,18 +3821,18 @@ msgstr "coup de balai"
 #. [objective]: condition=win
 #: Raajal/utils/mission-randalf.cfg:53
 msgid "Complete the 3 puzzles"
-msgstr ""
+msgstr "Compléter les 3 puzzles"
 
 #. [objective]: condition=win
 #: Raajal/utils/mission-randalf.cfg:57 Raajal/utils/mission-theomund.cfg:156
 #: Raajal/utils/mission-red-sea.cfg:398
 msgid "Or, end of turns (you can continue next day)"
-msgstr ""
+msgstr "Ou fin des tours (vous pouvez continuer le jour suivant)"
 
 #. [objective]: condition=win
 #: Raajal/utils/mission-randalf.cfg:61
 msgid "Or, death of Randalf"
-msgstr ""
+msgstr "Ou mort de Randalf"
 
 #. [objectives]
 #: Raajal/utils/mission-randalf.cfg:76
@@ -3843,6 +3843,11 @@ msgid ""
 "can't recruit adjacent to an enemy; (4)To restart, move to the puzzle "
 "entrance bridge"
 msgstr ""
+"Sudoku :\n"
+"(1)Pour recruter, cliquez droit et sélectionnez « Recruter squelette » ; (2) "
+"Chaque squelette doit apparaitre une fois par ligne, une fois par colonne, "
+"et une fois par groupe ; (3) Il est impossible de recruter à côté d'un "
+"ennemi ; (4) Pour recommencer, allez sur le pont d'entrée"
 
 #. [objectives]
 #: Raajal/utils/mission-randalf.cfg:90
@@ -3851,6 +3856,9 @@ msgid ""
 "(1)Attack a skeleton to move across its bridge; (2)You have unlimited "
 "attacks; (3)To restart, move to the puzzle entrance bridge"
 msgstr ""
+"Trier les nombres de crânes :\n"
+"(1) Attaquez un squelette pour traverser son pont ; (2) Vous avez un nombre "
+"illimité d'attaques ; (3) Pour recommencer, allez sur le pont d'entrée"
 
 #. [objectives]
 #: Raajal/utils/mission-randalf.cfg:98
@@ -3859,134 +3867,142 @@ msgid ""
 "(1)Attack a spider to move it one hex forward; (2)You have unlimited moves "
 "and attacks; (3)To restart, move to the puzzle entrance bridge"
 msgstr ""
+"Déplacer chaque araignée sur une toile:\n"
+"(1) Attaquez une araignée pour la faire avancer d'un hexagone ; (2) Vous "
+"avez un nombre illimité de déplacements et d'attaques ; (3) Pour "
+"recommencer, allez sur le pont d'entrée"
 
 #. [message]: speaker=narrator
 #: Raajal/utils/mission-randalf.cfg:259
 msgid "Select a unit to recruit."
-msgstr ""
+msgstr "Sélectionnez une unité à recruter."
 
 #. [option]: speaker=narrator
 #: Raajal/utils/mission-randalf.cfg:261
 msgid "1. Skeleton"
-msgstr ""
+msgstr "1. Squelette"
 
 #. [option]: speaker=narrator
 #: Raajal/utils/mission-randalf.cfg:267
 msgid "2. Skeleton Archer"
-msgstr ""
+msgstr "2. Archer squelette"
 
 #. [option]: speaker=narrator
 #: Raajal/utils/mission-randalf.cfg:273
 msgid "3. Chocobone"
-msgstr ""
+msgstr "3. Chocob'os"
 
 #. [option]: speaker=narrator
 #: Raajal/utils/mission-randalf.cfg:279
 msgid "4. Bone Shooter"
-msgstr ""
+msgstr "4. Décocheur d'os"
 
 #. [option]: speaker=narrator
 #: Raajal/utils/mission-randalf.cfg:285
 msgid "5. Revenant"
-msgstr ""
+msgstr "5. Revenant"
 
 #. [option]: speaker=narrator
 #: Raajal/utils/mission-randalf.cfg:291
 msgid "6. Deathblade"
-msgstr ""
+msgstr "6. Mortelame"
 
 #. [option]: speaker=narrator
 #: Raajal/utils/mission-randalf.cfg:297
 msgid "7. Death Knight"
-msgstr ""
+msgstr "7. Chevalier de la mort"
 
 #. [option]: speaker=narrator
 #: Raajal/utils/mission-randalf.cfg:303
 msgid "8. Draug"
-msgstr ""
+msgstr "8. Draug"
 
 #. [option]: speaker=narrator
 #: Raajal/utils/mission-randalf.cfg:309
 msgid "9. Skeletal Dragon"
-msgstr ""
+msgstr "9. Dragon squelettique"
 
 #: Raajal/utils/mission-randalf.cfg:673
 msgid "Skeleton"
-msgstr ""
+msgstr "Squelette"
 
 #. [then]: description=Randalf 12 6}, description=Randalf 10 5}, (description=Raajal) no}, (type=Ancient Lich) no}, (description=Randalf) no}
 #: Raajal/utils/mission-randalf.cfg:1662
 msgid "There is just one more task, Randalf."
-msgstr ""
+msgstr "Il reste une chose à faire, Randalf."
 
 #. [then]: description=Randalf 12 6}, description=Randalf 10 5}, (description=Raajal) no}, (type=Ancient Lich) no}, (description=Randalf) no}
 #: Raajal/utils/mission-randalf.cfg:1664
 msgid "Kill the human scum standing before you. Kill them all!"
-msgstr ""
+msgstr "Tuez le débri humain devant vous. Tuez-les tous !"
 
 #. [then]: description=Randalf 12 6}, description=Randalf 10 5}, (description=Raajal) no}, (type=Ancient Lich) no}, (description=Randalf) no}
 #: Raajal/utils/mission-randalf.cfg:1665
 msgid "Sir, please... I have a wife and daughter... Don't do it!"
 msgstr ""
+"Messire, s'il vous plaît... j'ai une femme et une fille... Ne faites pas "
+"cela !"
 
 #. [print]
 #: Raajal/utils/mission-randalf.cfg:1668
 msgid "Raajal and Randalf will reach the Red Sea in 16 hours"
-msgstr ""
+msgstr "Raajal et Randalf atteindront la Mer Rouge dans 16 heures"
 
 #. [else]: (description=Raajal) no}, (type=Ancient Lich) no}
 #: Raajal/utils/mission-randalf.cfg:1696
 msgid "I guess I was wrong about you, Randalf."
-msgstr ""
+msgstr "Je crois que je me suis trompé à votre sujet, Randalf."
 
 #. [else]: (description=Raajal) no}, (type=Ancient Lich) no}
 #: Raajal/utils/mission-randalf.cfg:1697
 msgid "Bring me his corpse."
-msgstr ""
+msgstr "Amenez-moi sa dépouille."
 
 #. [else]: (description=Raajal) no}, (type=Ancient Lich) no}
 #: Raajal/utils/mission-randalf.cfg:1698
-#, fuzzy
 msgid "Yes, Master."
-msgstr "Oui, maître !"
+msgstr "Oui, maître."
 
 #. [print]
 #: Raajal/utils/mission-randalf.cfg:1701
 msgid "Raajal will reach the Red Sea in 16 hours"
-msgstr ""
+msgstr "Raajal atteindra la Mer Rouge dans 16 heures"
 
 #. [then]
 #: Raajal/utils/mission-randalf.cfg:1735
 msgid "Let's make things a little more interesting."
-msgstr ""
+msgstr "Rendons cela un peu plus intéressant."
 
 #. [object]
 #: Raajal/utils/mission-red-sea.cfg:54
 msgid "Potion"
-msgstr ""
+msgstr "Potion"
 
 #. [object]
 #: Raajal/utils/mission-red-sea.cfg:58
 msgid "Splash the potion on a soul that knows you intimately."
-msgstr ""
+msgstr "Projetez la potion sur une âme que vous connaissez intimement."
 
 #: Raajal/utils/mission-red-sea.cfg:243
 msgid "The nightmare is finally over."
-msgstr ""
+msgstr "Ce cauchemar est enfin terminé."
 
 #: Raajal/utils/mission-red-sea.cfg:269
 msgid "Raajal is unstoppable!"
-msgstr ""
+msgstr "Raajal est inarrêtable !"
 
 #: Raajal/utils/mission-red-sea.cfg:274
 msgid "How are we to defeat Raajal if he does not show up?"
-msgstr ""
+msgstr "Comment allons-nous battre Raajal s'il ne se montre pas ?"
 
 #: Raajal/utils/mission-red-sea.cfg:379
 msgid ""
 "(1)Witches can steal witch souls and humans can steal human souls by "
 "attacking with potion; (2)Souls return to Raajal's side when killed"
 msgstr ""
+"(1) Les sorcières peuvent voler les âmes des sorcières, et les humains "
+"peuvent voler les âmes des humains en attaquant avec des potions ; (2) Les "
+"âmes tuées retournent dans le camp de Raajal"
 
 #: Raajal/utils/mission-red-sea.cfg:386
 msgid ""
@@ -3994,383 +4010,382 @@ msgid ""
 "attacking with potion; (2)Raajal and Randalf can steal each other's souls "
 "and hitpoints; (3)Souls return to their owner's side when killed"
 msgstr ""
+"(1) Les sorcières peuvent voler les âmes des sorcières, et les humains "
+"peuvent voler les âmes des humains en attaquant avec des potions ; (2) "
+"Raajal et Randalf peuvent mutuellement se voler des âmes et des points de "
+"vie ; (3) Les âmes tuées retournent dans le camp de leur possesseur"
 
 #: Raajal/utils/mission-red-sea.cfg:402
 msgid "Death of all leaders"
-msgstr ""
+msgstr "Mort de tous les chefs"
 
 #: Raajal/utils/mission-red-sea.cfg:507
 msgid "Inaccessible until Theomund completes his mission"
-msgstr ""
+msgstr "Inaccessible jusqu'à ce que Theomund réussisse sa mission"
 
 #: Raajal/utils/mission-red-sea.cfg:537
 msgid "Find the witches! Find them and kill them!"
-msgstr ""
+msgstr "Découvrez les sorcières ! Trouvez-les et détruisez-les !"
 
 #: Raajal/utils/mission-red-sea.cfg:683
 msgid "Welcome back, Master."
-msgstr ""
+msgstr "Bon retour, maître."
 
 #: Raajal/utils/mission-red-sea.cfg:684
 msgid "Has the prisoner talked yet?"
-msgstr ""
+msgstr "Le prisonnier a parlé ?"
 
 #: Raajal/utils/mission-red-sea.cfg:685
 msgid ""
 "I am sorry, but he refuses to tell us anything. He says if he talks, his "
 "family will be killed."
 msgstr ""
+"Je suis désolé, mais il refuse de nous dire quoi que ce soit. Il affirme que "
+"s'il parle, sa famille sera tuée."
 
 #: Raajal/utils/mission-red-sea.cfg:698
 msgid "Turn and face me!"
-msgstr ""
+msgstr "Revenez et affrontez-moi !"
 
 #: Raajal/utils/mission-red-sea.cfg:708
 msgid "Can they see me?"
-msgstr ""
+msgstr "Peuvent-ils me voir ?"
 
 #: Raajal/utils/mission-red-sea.cfg:709
-#, fuzzy
 msgid "Yes."
-msgstr "Oui. Pourquoi ?"
+msgstr "Oui."
 
 #: Raajal/utils/mission-red-sea.cfg:764
-#, fuzzy
 msgid "Zilead! What have you done to him?"
-msgstr "Qu'ai-je fait pour mériter ce destin ?"
+msgstr "Zilead ! Que lui avez-vous fait ?"
 
 #: Raajal/utils/mission-red-sea.cfg:765
 msgid "Is he still alive, Mordoc?"
-msgstr ""
+msgstr "Est-il toujours vivant, Mordoc ?"
 
 #: Raajal/utils/mission-red-sea.cfg:766
-#, fuzzy
 msgid "Just barely."
-msgstr "Un instant."
+msgstr "À peine !"
 
 #: Raajal/utils/mission-red-sea.cfg:767
 msgid "Good. Take him and Randalf to the southeast cave."
-msgstr ""
+msgstr "Bien. Menez Randalf et lui à la grotte du sud-est."
 
 #: Raajal/utils/mission-red-sea.cfg:768
-#, fuzzy
 msgid "Master?"
-msgstr "Père ?"
+msgstr "Maître ?"
 
 #: Raajal/utils/mission-red-sea.cfg:769
 msgid ""
 "The witches are here. With Randalf's help we can finally destroy them all."
 msgstr ""
+"Les sorcières sont là. Grâce à Randalf, nous allons enfin pouvoir les "
+"détruire toutes."
 
 #: Raajal/utils/mission-red-sea.cfg:812
 msgid "If you betray Master, Randalf..."
-msgstr ""
+msgstr "Si tu trahis le maître, Randalf..."
 
 #: Raajal/utils/mission-red-sea.cfg:860
 msgid "You scoundrel!"
-msgstr ""
+msgstr "Espèce de scélérat !"
 
 #: Raajal/utils/mission-red-sea.cfg:903
 msgid "Wait here. We will lure the souls towards you."
-msgstr ""
+msgstr "Attendez ici. Nous allons attirer les âmes vers vous."
 
 #: Raajal/utils/mission-red-sea.cfg:904
 msgid ""
 "Remember, the potion will only work on souls that knew you intimately before "
 "their demise."
 msgstr ""
+"Rappelez-vous que cette potion ne fonctionne que sur des âmes que vous "
+"connaissiez parfaitement avant qu'elles ne nous quittent."
 
 #: Raajal/utils/mission-red-sea.cfg:925
 msgid "Theomund's Galleon"
-msgstr ""
+msgstr "Galion de Theomund"
 
 #: Raajal/utils/mission-red-sea.cfg:926
 msgid "Barruk's Galleon"
-msgstr ""
+msgstr "Galion de Barruk"
 
 #: Raajal/utils/mission-red-sea.cfg:927 Raajal/utils/mission-red-sea.cfg:928
 #: Raajal/utils/mission-red-sea.cfg:929 Raajal/utils/mission-red-sea.cfg:930
 #: Raajal/utils/mission-red-sea.cfg:931
 msgid "Orc Galleon"
-msgstr ""
+msgstr "Galion orc"
 
 #. [event]: role=patrol}, role=patrol}
 #: Raajal/utils/mission-theomund.cfg:207 Raajal/utils/mission-theomund.cfg:872
 #: Raajal/utils/mission-red-sea.cfg:939
-#, fuzzy
 msgid "Barruk"
-msgstr "Barruk ?"
+msgstr "Barruk"
 
 #: Raajal/utils/mission-red-sea.cfg:939
 msgid "Death to Raajal!"
-msgstr ""
+msgstr "Mort à Raajal !"
 
 #: Raajal/utils/mission-red-sea.cfg:1663
-#, fuzzy
 msgid "Zilead!"
-msgstr "Zilead"
+msgstr "Zilead !"
 
 #: Raajal/utils/mission-red-sea.cfg:1663
 msgid "Papa!"
-msgstr ""
+msgstr "Papa !"
 
 #: Raajal/utils/mission-red-sea.cfg:1664
-#, fuzzy
 msgid "Zeke!"
-msgstr "Zeke"
+msgstr "Zeke !"
 
 #: Raajal/utils/mission-red-sea.cfg:1665
-#, fuzzy
 msgid "Anna!"
-msgstr "Anna"
+msgstr "Anna !"
 
 #: Raajal/utils/mission-red-sea.cfg:1666
-#, fuzzy
 msgid "Edina!"
-msgstr "Reine Edina !"
+msgstr "Edina !"
 
 #: Raajal/utils/mission-theomund.cfg:1281
 #: Raajal/utils/mission-red-sea.cfg:1671
-#, fuzzy
 msgid "Theomund!"
-msgstr "Roi Theomund"
+msgstr "Theomund !"
 
 #: Raajal/utils/mission-theomund.cfg:620 Raajal/utils/mission-red-sea.cfg:1675
-#, fuzzy
 msgid "Father!"
-msgstr "Père ?"
+msgstr "Père !"
 
 #: Raajal/utils/mission-red-sea.cfg:1678
-#, fuzzy
 msgid "Horomir!"
-msgstr "Horomir"
+msgstr "Horomir !"
 
 #. [objectives]
 #: Raajal/utils/mission-theomund.cfg:84
-#, fuzzy
 msgid "Move Theomund to Barruk's castle"
-msgstr "Nous devons aller au château de Barruk."
+msgstr "Déplacer Theomund au château de Barruk"
 
 #. [objective]: condition=win
 #: Raajal/utils/mission-theomund.cfg:88 Raajal/utils/mission-theomund.cfg:109
 #: Raajal/utils/mission-theomund.cfg:131
 msgid "End of turns (you can continue next day)"
-msgstr ""
+msgstr "Fin des tour (vous pouvez continuer la journée suivante)"
 
 #. [objective]: condition=win
 #: Raajal/utils/mission-theomund.cfg:92
 msgid "Or, an orc patroller sees Theomund"
-msgstr ""
+msgstr "Ou un patrouilleur orc voit Theomund"
 
 #. [objectives]
 #: Raajal/utils/mission-theomund.cfg:105
 msgid "Move Theomund and his orcs across the river"
-msgstr ""
+msgstr "Déplacer Theomund et ses orcs à travers la rivière"
 
 #. [objective]: condition=win
 #: Raajal/utils/mission-theomund.cfg:113
 msgid "Or, you are spotted"
-msgstr ""
+msgstr "Ou vous êtes repéré"
 
 #. [objectives]
 #: Raajal/utils/mission-theomund.cfg:126
 msgid "Attack Hector's castle"
-msgstr ""
+msgstr "Attaquer le château de Hector"
 
 #. [objectives]
 #: Raajal/utils/mission-theomund.cfg:127
 msgid "Units exit the mine after Gerald's men cross the river"
 msgstr ""
+"Des unités sortent de la mine poursuivant les hommes de Gerald à travers la "
+"rivière"
 
 #. [objective]: condition=win
 #: Raajal/utils/mission-theomund.cfg:135 Raajal/utils/mission-theomund.cfg:164
 msgid "Or, death of Barruk"
-msgstr ""
+msgstr "Ou mort de Barruk"
 
 #. [objectives]
 #: Raajal/utils/mission-theomund.cfg:149
 msgid "You can enter the mine to help Theomund"
-msgstr ""
+msgstr "Vous pouvez entrer dans la mine pour aider Theomund"
 
 #. [objective]: condition=win
 #: Raajal/utils/mission-theomund.cfg:152
 msgid "Death of Gerald II"
-msgstr ""
+msgstr "Mort de Gerald II"
 
 #. [objective]: condition=win
 #: Raajal/utils/mission-theomund.cfg:160
 msgid "Or, death of Theomund"
-msgstr ""
+msgstr "Ou mort de Theomund"
 
 #. [event]: role=patrol}, role=patrol}
 #: Raajal/utils/mission-theomund.cfg:183
-#, fuzzy
 msgid "Hector"
-msgstr "Aethor"
+msgstr "Hector"
 
 #. [event]: role=patrol}, role=patrol}
 #: Raajal/utils/mission-theomund.cfg:184
 msgid "Marcus"
-msgstr ""
+msgstr "Marcus"
 
 #. [event]: role=patrol}, role=patrol}
 #: Raajal/utils/mission-theomund.cfg:185
-#, fuzzy
 msgid "Lindor"
-msgstr "Lindred"
+msgstr "Lindor"
 
 #. [event]: role=patrol}, role=patrol}
 #: Raajal/utils/mission-theomund.cfg:188
 msgid "King Gerald II"
-msgstr ""
+msgstr "Roi Gerald II"
 
 #. [event]: role=patrol}, role=patrol}
 #: Raajal/utils/mission-theomund.cfg:191
-#, fuzzy
 msgid "Jarrett"
-msgstr "Jaredd"
+msgstr "Jarrett"
 
 #. [event]: role=patrol}, role=patrol}
 #: Raajal/utils/mission-theomund.cfg:194
 msgid "Julius"
-msgstr ""
+msgstr "Julius"
 
 #. [event]: role=patrol}, role=patrol}
 #: Raajal/utils/mission-theomund.cfg:198
 msgid "Yraec"
-msgstr ""
+msgstr "Yraec"
 
 #. [event]: role=patrol}, role=patrol}
 #: Raajal/utils/mission-theomund.cfg:201
-#, fuzzy
 msgid "Bluran"
-msgstr "Elurian"
+msgstr "Bluran"
 
 #. [event]: role=patrol}, role=patrol}
 #: Raajal/utils/mission-theomund.cfg:210 Raajal/utils/mission-theomund.cfg:873
-#, fuzzy
 msgid "Olag"
-msgstr "Hors-la-loi"
+msgstr "Olag"
 
 #. [event]: role=patrol}, role=patrol}
 #: Raajal/utils/mission-theomund.cfg:211 Raajal/utils/mission-theomund.cfg:874
 msgid "Igok"
-msgstr ""
+msgstr "Igok"
 
 #. [event]
 #: Raajal/utils/mission-theomund.cfg:249
 msgid "Wait here while I speak with Barruk."
-msgstr ""
+msgstr "Attendez ici pendant que je discute avec Barruk."
 
 #. [print]
 #: Raajal/utils/mission-theomund.cfg:319
 msgid "The orcs will reach the Red Sea in 24 hours"
-msgstr ""
+msgstr "Les orcs atteindront la Mer Rouge dans 24 heures"
 
 #. [then]
 #. [then]: role=patrol, role=patrol, role=patrol
 #: Raajal/utils/mission-theomund.cfg:481 Raajal/utils/mission-theomund.cfg:529
 msgid "Enemy sighted!"
-msgstr ""
+msgstr "Ennemi en vue !"
 
 #: Raajal/utils/mission-theomund.cfg:742
 msgid "Retreat!"
-msgstr ""
+msgstr "Retraite !"
 
 #: Raajal/utils/mission-theomund.cfg:762
 msgid "Hector is in trouble!"
-msgstr ""
+msgstr "Hector a des problèmes !"
 
 #: Raajal/utils/mission-theomund.cfg:834
 msgid "How did you get past my guards, filthy human?"
-msgstr ""
+msgstr "Comment as-tu pu échapper à mes gardes, ordure d'humain ?"
 
 #: Raajal/utils/mission-theomund.cfg:840
 msgid "Does anything strike you as odd about this whole situation?"
-msgstr ""
+msgstr "Rien ne vous parait cocasse dans toute cette situation ?"
 
 #: Raajal/utils/mission-theomund.cfg:841
-#, fuzzy
 msgid "What do you mean?"
-msgstr "Que voulez-vous ?"
+msgstr "Que voulez-vous dire ?"
 
 #: Raajal/utils/mission-theomund.cfg:842
 msgid ""
 "Why were the orcs so desperately trying to leave Wesnoth before we chased "
 "them into the mountains?"
 msgstr ""
+"Pourquoi les orcs essayaient si désespérement de fuir Wesnoth avant que nous "
+"ne les chassions dans les montagnes ?"
 
 #: Raajal/utils/mission-theomund.cfg:843
 msgid ""
 "Why, instead of recuperating, do they persist in their futile attacks "
 "against us?"
 msgstr ""
+"Pourquoi, au lieu de reprendre des forces, persistent-t-ils dans leurs "
+"futiles offensives contre nous ?"
 
 #: Raajal/utils/mission-theomund.cfg:844
 msgid "I don't know, but at this rate they'll all be dead within a fortnight."
 msgstr ""
+"Je ne sais pas mais, à cette vitesse, ils seront tous morts dans quinze "
+"jours."
 
 #: Raajal/utils/mission-theomund.cfg:937
 msgid ""
 "Horomir, after the orcs and I reach the other side of the river, you and "
 "Barruk will lead the attack on Hector's castle."
 msgstr ""
+"Horomir, sus aux orcs, je vais sur l'autre rive, Barruck et vous conduirez "
+"l'attaque sur le château de Hector."
 
 #: Raajal/utils/mission-theomund.cfg:1000
-#, fuzzy
 msgid "Move out!"
-msgstr "Bougez !"
+msgstr "Allez !"
 
 #: Raajal/utils/mission-theomund.cfg:1295
 msgid "King Gerald is under attack!"
-msgstr ""
+msgstr "Le roi Gerald est attaqué !"
 
 #: Raajal/utils/mission-theomund.cfg:1381
 msgid "Error: could not move unit blocking the mine entrance"
-msgstr ""
+msgstr "Erreur : impossible de déplacer l'unité bloquant l'entrée de la mine"
 
 #: Raajal/utils/mission-theomund.cfg:1410
 msgid "Useless human!"
-msgstr ""
+msgstr "Humain inutile !"
 
 #: Raajal/utils/mission-theomund.cfg:1419
 msgid "I have failed my family..."
-msgstr ""
+msgstr "J'ai failli à ma famille..."
 
 #: Raajal/utils/mission-theomund.cfg:1442
 msgid "Our commander has been slain! Retreat!"
-msgstr ""
+msgstr "Notre chef a été tué ! Retraite !"
 
 #: Raajal/utils/mission-theomund.cfg:1447
-#, fuzzy
 msgid "I have slain the orc commander!"
-msgstr "J'ai tué une sorcière ! La victoire sera bientôt à nous !"
+msgstr "J'ai tué le commandant orc !"
 
 #. [terrain]
 #: Raajal/utils/terrain.cfg:6 Raajal/utils/terrain.cfg:39
 #: Raajal/utils/terrain.cfg:50
 msgid "Soul Castle"
-msgstr ""
+msgstr "Château des âmes"
 
 #. [terrain]
 #: Raajal/utils/terrain.cfg:17
 msgid "Red Water"
-msgstr ""
+msgstr "Eau rouge"
 
 #. [terrain]
 #: Raajal/utils/terrain.cfg:28
 msgid "Red Water Void"
-msgstr ""
+msgstr "Vide d'eau rouge"
 
 #. [terrain]
 #: Raajal/utils/terrain.cfg:59
 msgid "Impassable Cloudless Mountains"
-msgstr ""
+msgstr "Montagnes nuageuses infranchissables"
 
 #. [terrain]
 #: Raajal/utils/terrain.cfg:68 Raajal/utils/terrain.cfg:78
 msgid "Bridge"
-msgstr ""
+msgstr "Pont"
 
 #~ msgid "Stop this madness at once!"
 #~ msgstr "Arrêtez tout de suite cette folie !"
