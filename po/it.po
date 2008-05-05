@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-05-01 17:08+0200\n"
-"PO-Revision-Date: 2008-04-29 10:36+0100\n"
+"PO-Revision-Date: 2008-05-05 09:42+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -28,9 +28,16 @@ msgstr ""
 
 #. [campaign]
 #: Raajal/_main.cfg:10
+#, fuzzy
 msgid ""
 "An Arch Mage with the power of resurrection seeks a new apprentice. Version"
 msgstr ""
+"Un arcimago con il potere di risuscitare i morti cerca unu nuovo "
+"apprendista.\n"
+"\n"
+"Nota: gli ultimi tre scenari devono ancora essere sistemati.\n"
+"\n"
+"Versione "
 
 #. [campaign]
 #: Raajal/_main.cfg:13
@@ -248,7 +255,7 @@ msgstr "Trithaithis"
 #. [event]
 #: Raajal/scenarios/02_A_New_Vitality.cfg:79
 msgid "Go back to the fiery pit from whence you came!"
-msgstr ""
+msgstr "Torna nell'abisso infuocato dal quale provieni!"
 
 #. [event]
 #: Raajal/scenarios/02_A_New_Vitality.cfg:79
@@ -509,12 +516,12 @@ msgstr ""
 #. [event]: description=Cithrand facing sw}, description=Unalas facing sw}, description=Cithrand facing se}, description=Unalas facing se}, description=Raajal facing sw}, description=Raajal type (Undead General Power)}
 #: Raajal/scenarios/02_A_New_Vitality.cfg:174
 msgid "What brings you here, stranger?"
-msgstr ""
+msgstr "Cosa ti porta qua, straniero?"
 
 #. [event]: description=Cithrand facing sw}, description=Unalas facing sw}, description=Cithrand facing se}, description=Unalas facing se}, description=Raajal facing sw}, description=Raajal type (Undead General Power)}
 #: Raajal/scenarios/02_A_New_Vitality.cfg:179
 msgid "Are you friend or foe?"
-msgstr ""
+msgstr "Nemico o amico?"
 
 #. [event]: description=Cithrand facing sw}, description=Unalas facing sw}, description=Cithrand facing se}, description=Unalas facing se}, description=Raajal facing sw}, description=Raajal type (Undead General Power)}
 #: Raajal/scenarios/02_A_New_Vitality.cfg:184
@@ -530,8 +537,9 @@ msgstr ""
 #: Raajal/scenarios/02_A_New_Vitality.cfg:247
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:125
 #: Raajal/utils/mission-red-sea.cfg:394
+#, fuzzy
 msgid "Death of Raajal"
-msgstr ""
+msgstr "Parla di Raajal."
 
 #. [objective]: condition=lose
 #: Raajal/scenarios/02_A_New_Vitality.cfg:251
@@ -551,17 +559,17 @@ msgstr "Aiuto!"
 #. [event]: description=Raajal (Undead General Power) 1 $x1 $y1 ({SOUL_VARIATION})}
 #: Raajal/scenarios/02_A_New_Vitality.cfg:384
 msgid "Where is Randalf?"
-msgstr ""
+msgstr "Dov'è Randalf?"
 
 #. [then]
 #: Raajal/scenarios/02_A_New_Vitality.cfg:426
 msgid "The wizard? He is a friend of King Theomund's. Now please..."
-msgstr ""
+msgstr "Il mago? È un amico di re Teomundo. Ora, per cortesia..."
 
 #. [then]
 #: Raajal/scenarios/02_A_New_Vitality.cfg:505
 msgid "There are not enough souls here. I must go elsewhere."
-msgstr ""
+msgstr "NOn ci sono abbastanza anime qua. Devo andare altrove."
 
 #. [event]
 #: Raajal/scenarios/02_A_New_Vitality.cfg:521
@@ -631,7 +639,7 @@ msgstr "Anna"
 #. [event]: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:92
 msgid "Randalf, we know you're here!"
-msgstr ""
+msgstr "Randalf, lo sapevo che c'eri anche tu!"
 
 #. [event]: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
 #. [event]: (description=Randalf) 15 20}, (description=Randalf) 17 18}
@@ -666,7 +674,7 @@ msgstr ""
 #. [event]: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:104
 msgid "Father, please! We need his help!"
-msgstr ""
+msgstr "Padre, per favore! Ci serve il suo aiuto!"
 
 #. [event]: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:105
@@ -674,6 +682,9 @@ msgid ""
 "Randalf, our galleon was attacked by witches just after we left Eliador. "
 "They took mother and told me and Zeke to fly to Wesnoth."
 msgstr ""
+"Randalf, il nostro galeone è stato attaccato dalle streghe poco dopo la "
+"partenza da Eliador. Hanno preso mamma e hanno detto a me e Zeke di volare a "
+"Wesnoth."
 
 #. [event]: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:106
@@ -681,11 +692,13 @@ msgid ""
 "They said if we wanted to see momma again, we'd have to bring you, papa, and "
 "King Theomund to Angalas."
 msgstr ""
+"Hanno detto che se volevamo rivedere mamma, avremmo dovuto portare te, papà "
+"e re Teomundo ad Angalas."
 
 #. [event]: (description=Zilead) 17 10}, (description=Zeke) 16 10}, (description=Anna) 18 9}
 #: Raajal/scenarios/03_Six_Years_Later.cfg:107
 msgid "Will you help us save our mother?"
-msgstr ""
+msgstr "Ci aiuterai a salvare nostra madre?"
 
 #. [scenario]
 #: Raajal/scenarios/04_Overboard.cfg:4
@@ -1084,6 +1097,8 @@ msgstr "Padre, grazie a dio! Cosa sta succedendo?"
 msgid ""
 "We must head back to Wesnoth, Horomir. I'll explain everything on the way."
 msgstr ""
+"Dobbiamo dirigerci di nuovo a Wesnoth, Horomir. Ti spiegherò tutto per "
+"strada."
 
 #. [scenario]
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:4
@@ -1246,6 +1261,8 @@ msgid ""
 "Why did you bring us to the site of this massacre, Ardella? We must leave "
 "Angalas before the witches return."
 msgstr ""
+"Perché ci hai portato sul luogo del massacro, Ardella? Dobbiamo lasciare "
+"Angalas prima che tornino le streghe."
 
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:124
@@ -1253,6 +1270,8 @@ msgid ""
 "The elves are not dead. They are in a trance... Ardella has led us into a "
 "trap!"
 msgstr ""
+"Gli elfi non sono morti. Sono in trance... Ardella ci ha guidato in una "
+"trappola!"
 
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:125
@@ -1303,7 +1322,7 @@ msgstr "Zilead, Teomundo e Randalf, venite avanti."
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:165
 msgid "Very well! Ardella, kill your children!"
-msgstr ""
+msgstr "Benissimo! Ardella, uccidi i tuoi figli!"
 
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:166
@@ -1335,17 +1354,17 @@ msgstr ""
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:177
 msgid "To whom do you refer?"
-msgstr ""
+msgstr "A chi ti riferisci?"
 
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:178
 msgid "She speaks of Raajal."
-msgstr ""
+msgstr "Parla di Raajal."
 
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:179
 msgid "I have not heard of him... Who is he?"
-msgstr ""
+msgstr "Non ne ho mai sentito parlare... Chi è?"
 
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:182
@@ -1353,6 +1372,8 @@ msgid ""
 "I was hoping I would never have to tell you about him. Agatha is right. We "
 "have all suffered because of Raajal."
 msgstr ""
+"Speravo di non aver mai dovuto parlartene. Agata ha ragione. Tutto quello "
+"che abbiamo patito è colpa di Raajal."
 
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:183
@@ -1362,17 +1383,17 @@ msgstr ""
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:184
 msgid "Well, six years ago..."
-msgstr ""
+msgstr "Be', sei anni fa..."
 
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:185
 msgid "Perhaps you should start from the very beginning, Randalf."
-msgstr ""
+msgstr "Forse dovresti cominciare dal vero inizio, randalf."
 
 #. [event]: (description=Zilead) 11 6}, (description=King Theomund) 12 5}, (description=Randalf) 10 5}, (description=Randalf) (description=King Theomund)}
 #: Raajal/scenarios/05_Prisoners_of_Angalas.cfg:186
 msgid "Right. About thirty years ago..."
-msgstr ""
+msgstr "Bene. Circa trent'anni fa..."
 
 #. [event]
 #. [event]: (description=The Oracle) type (Oracle)}
@@ -1425,32 +1446,32 @@ msgstr "Be'?"
 #. [event]: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:92
 msgid "Just a moment."
-msgstr ""
+msgstr "Solo un momento."
 
 #. [event]: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:98
 msgid "I see a being..."
-msgstr ""
+msgstr "Vedo un essere..."
 
 #. [event]: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:104
 msgid "He lives in an abandoned mine."
-msgstr ""
+msgstr "Vive in una minera abbandonata."
 
 #. [event]: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:110
 msgid "He is an immortal, capable of resurrection."
-msgstr ""
+msgstr "È immortale, sa risuscitare"
 
 #. [event]: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:111
 msgid "That does not sound like Othello."
-msgstr ""
+msgstr "Non pare Otello."
 
 #. [event]: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:112
 msgid "No, but I am being shown these images for a reason."
-msgstr ""
+msgstr "No, ma mi hanno mostrato queste immagini per qualche motivo."
 
 #. [event]: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:118
@@ -1460,7 +1481,7 @@ msgstr ""
 #. [event]: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:124
 msgid "You are wasting..."
-msgstr ""
+msgstr "Stai sprecando..."
 
 #. [event]: (description=The Oracle) type (Oracle)}
 #: Raajal/scenarios/06_The_Oracle.cfg:125
@@ -1502,17 +1523,17 @@ msgstr ""
 #. [event]
 #: Raajal/scenarios/07_The_Contender.cfg:43
 msgid "You said he lives in an abandoned mine, right?"
-msgstr ""
+msgstr "Hai detto che vive in una miniera abbandonata, vero?"
 
 #. [event]
 #: Raajal/scenarios/07_The_Contender.cfg:44
 msgid "Yes. Why?"
-msgstr ""
+msgstr "S'. Perché?"
 
 #. [event]
 #: Raajal/scenarios/07_The_Contender.cfg:45
 msgid "It is probably nothing."
-msgstr ""
+msgstr "Oh, niente."
 
 #. [event]
 #: Raajal/scenarios/07_The_Contender.cfg:46
@@ -1525,21 +1546,23 @@ msgid ""
 "An arch mage is holding a competition to find a new apprentice. It is taking "
 "place in an abandoned mine on an isle southwest of Eliador."
 msgstr ""
+"Un arcimago organizza un concorso per trovare un nuovo apprendista. La sfida "
+"ha luogo in una miniera abbandonata su un'isola a sud-ovest di Eliador."
 
 #. [event]
 #: Raajal/scenarios/07_The_Contender.cfg:48
 msgid "Can you enter the competition?"
-msgstr ""
+msgstr "Puoi entrare nella gara?"
 
 #. [event]
 #: Raajal/scenarios/07_The_Contender.cfg:49
 msgid "You think he's the one?"
-msgstr ""
+msgstr "Pensi che potrebbe essere lui?"
 
 #. [event]
 #: Raajal/scenarios/07_The_Contender.cfg:50
 msgid "He might be."
-msgstr ""
+msgstr "Potrebbe."
 
 #. [scenario]: role=tournament_player
 #: Raajal/scenarios/08_The_Apprentice.cfg:4
@@ -1626,18 +1649,20 @@ msgid ""
 "You are about to embark on a journey through the spirit world. After you "
 "return from your journey, you will no longer have to fear physical death."
 msgstr ""
+"Stai per imbarcarti in un viaggio attraverso il mondo degli spiriti. Quando "
+"tornerai dal tuo viaggio non dovrai più temere la morte fisica."
 
 #. [event]: (description=Randalf) 10 3}, (description=Randalf) 10 2}, (description=Randalf) type (Elder Mage Dagger)}, description=Randalf facing sw}
 #. [then]: description=Randalf 12 6}, description=Randalf 10 5}, (description=Raajal) no}, (type=Ancient Lich) no}, (description=Randalf) no}
 #: Raajal/scenarios/08_The_Apprentice.cfg:483
 #: Raajal/utils/mission-randalf.cfg:1663
 msgid "What must I do?"
-msgstr ""
+msgstr "Cosa devo fare?"
 
 #. [event]: (description=Randalf) 10 3}, (description=Randalf) 10 2}, (description=Randalf) type (Elder Mage Dagger)}, description=Randalf facing sw}
 #: Raajal/scenarios/08_The_Apprentice.cfg:484
 msgid "Pick up the dagger."
-msgstr ""
+msgstr "Prendi ilp ugnale."
 
 #. [event]: (description=Randalf) 10 3}, (description=Randalf) 10 2}, (description=Randalf) type (Elder Mage Dagger)}, description=Randalf facing sw}
 #: Raajal/scenarios/08_The_Apprentice.cfg:497
@@ -1645,11 +1670,13 @@ msgid ""
 "Pierce my heart with it and then, while the dagger still drips with my "
 "blood, pierce your own heart."
 msgstr ""
+"Trafiggi il mio cuore con quello e poi, quando il pugnale comincia a "
+"gocciolare del mio sangue perfora il tuo cuore."
 
 #. [scenario]
 #: Raajal/scenarios/09_The_Story_Continues.cfg:4
 msgid "The Story Continues"
-msgstr ""
+msgstr "La storia continua"
 
 #. [event]
 #: Raajal/scenarios/09_The_Story_Continues.cfg:56
@@ -2058,7 +2085,7 @@ msgstr "Cosa sta facendo?"
 #. [event]: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:93
 msgid "What is it now, Reuben?"
-msgstr ""
+msgstr "Cosa c'è adesso, Reuben?"
 
 #. [event]: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:94
@@ -2068,7 +2095,7 @@ msgstr "Non riesco a dormire. Ho pensato che dovrei..."
 #. [event]: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:95
 msgid "Hedry, the strange one is approaching the castle."
-msgstr ""
+msgstr "Hedry, lo straniero si avvicina al castello."
 
 #. [event]: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:103
@@ -2078,7 +2105,7 @@ msgstr "Cosa volete?"
 #. [event]: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:104
 msgid "Your castle is about to be invaded by an army of orcs."
-msgstr ""
+msgstr "Il vostro castello sta per essere attaccato da un esercito di orchi."
 
 #. [event]: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:105
@@ -2086,11 +2113,13 @@ msgid ""
 "Nonsense. If there are indeed orcs out there, they are likely friends of the "
 "wizard's."
 msgstr ""
+"Non ha senso. Se ci fossero degli orchi fuori di qua, sarebbero "
+"probabilmente amici del mago."
 
 #. [event]: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:106
 msgid "Randalf is aligned with the orcs?"
-msgstr ""
+msgstr "Randalf è alleato con gli orchi?"
 
 #. [event]: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:107
@@ -2099,6 +2128,9 @@ msgid ""
 "them called Randalf 'Master', but most belonged to Randalf's master. It's "
 "all very confusing."
 msgstr ""
+"Non esattamente. Gli orchi ci hanno aiutato a conquistare questo castello "
+"circa un anno fa. Alcuni di loro chiamavano Randalf “padrone”, ma la maggior "
+"parte apparteneva al padrone di Randalf. È tutto così complicato."
 
 #. [event]: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:108
@@ -2108,18 +2140,18 @@ msgstr "Effettivamente..."
 #. [event]: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:109
 msgid "How many orcs are we talking about?"
-msgstr ""
+msgstr "Di quanti orchi stiamo parlando?"
 
 #. [event]: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:110
 msgid ""
 "At least three hundred marching in formation. They'll be here by morning."
-msgstr ""
+msgstr "Almeno trecento che marciano in formazione. Saranno qui all'alba."
 
 #. [event]: (description=Raajal) 39 10}, (description=Hedry) facing sw}, (description=Hedry) facing se}, (description=Raajal) 26 12}, (description=Raajal) facing sw}, (description=Reuben) 24 11}, description=Raajal no}
 #: Raajal/scenarios/12_Prepare_for_Battle.cfg:115
 msgid "Perhaps you should prepare your men for battle?"
-msgstr ""
+msgstr "Forse dovresti preparare i tuoi uomini alla battaglia?"
 
 #. [scenario]
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:4
@@ -2215,6 +2247,8 @@ msgid ""
 "We will be watching you, strange one. It is no coincidence that, the morning "
 "after you arrive, we are invaded by orcs."
 msgstr ""
+"Ti teniamo d'occhio, straniero. Non deve essere un caso che siamo invasi "
+"dagli orchji proprio il mattino in cui tu arrivi."
 
 #. [event]
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:254
@@ -2233,17 +2267,17 @@ msgstr ""
 #. [event]
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:262
 msgid "This is suicide. We are outnumbered ten to one."
-msgstr ""
+msgstr "È un suicidio. Ci sovrastano in numero dieci a uno."
 
 #. [event]
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:263
 msgid "They are only orcs. We will squash them like insects!"
-msgstr ""
+msgstr "Sono solo orchi. Li schiacceremo come insetti!"
 
 #. [event]
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:369
 msgid "I knew you could not be trusted!"
-msgstr ""
+msgstr "Lo sapevo che non mi dovevo fidare!"
 
 #. [event]
 #: Raajal/scenarios/13_A_Failed_Attempt.cfg:668
@@ -2844,7 +2878,7 @@ msgstr ""
 #. [event]: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:159
 msgid "You cannot defeat me, serpent. Give me the children!"
-msgstr ""
+msgstr "Non puoi sconfiggermi, serpe. Dammi i bambini!"
 
 #. [event]: (description=Zeke) 15 32}, (description=Anna) 16 32}, (description=Balthor) 16 31}, (description=Balthor) 25 10}, description=Balthor facing sw}, type=Witch 23 13}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:160
@@ -2873,7 +2907,7 @@ msgstr ""
 #. [event]: type=Witch no}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:213
 msgid "First, tell me the fate of their parents."
-msgstr ""
+msgstr "Per prima cosa, dimmi il destino dei miei genitori."
 
 #. [event]: type=Witch no}
 #: Raajal/scenarios/Day2_Anna_and_Zeke2.cfg:214
@@ -2941,12 +2975,12 @@ msgstr ""
 #. [event]: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:92
 msgid "All right. Where are they? Where are the witches?"
-msgstr ""
+msgstr "Benissimo. Dove sono? Dove sono le streghe?"
 
 #. [event]: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:93
 msgid "I cannot say. I will not put my friends in any more danger."
-msgstr ""
+msgstr "NOn lo posso dire. Non metterò ancora in pericolo i miei amici."
 
 #. [event]: (description=Raajal) 15 20}, (description=Raajal) 18 18}, (description=Raajal) facing sw}, (description=Raajal) no}, (description=Randalf) no}
 #: Raajal/scenarios/Day2_Randalf.cfg:94
@@ -2973,7 +3007,7 @@ msgstr "Gwurag"
 #. [event]: (description=Raajal) 4 5}, description=Raajal no}, (description=Raajal) facing sw}
 #: Raajal/scenarios/Day2_Red_Sea.cfg:56
 msgid "We have him, Master. We have Randalf."
-msgstr ""
+msgstr "L'abbiamo preso, padrone. Abbiamo Randalf."
 
 #. [event]: (description=Raajal) 4 5}, description=Raajal no}, (description=Raajal) facing sw}
 #: Raajal/scenarios/Day2_Red_Sea.cfg:57
@@ -2986,6 +3020,8 @@ msgid ""
 "Mordoc, when the prisoner regains consciousness, I want you to torture him "
 "until he tells you everything."
 msgstr ""
+"Mordoc, quando il prigioniero riprende i sensi, voglio che lo torturi finché "
+"non dirà tutto."
 
 #. [event]: (description=Raajal) 4 5}, description=Raajal no}, (description=Raajal) facing sw}
 #: Raajal/scenarios/Day2_Red_Sea.cfg:65
@@ -3039,7 +3075,7 @@ msgstr ""
 #. [event]: description=King Theomund, description=King Theomund, description=King Theomund, (description=King Theomund) no}, (description=Horomir) no}
 #: Raajal/scenarios/Day2_Theomund.cfg:72
 msgid "What is the plan, father? How are we to defeat Gerald II?"
-msgstr ""
+msgstr "Qual è il piano, padre? Come faremo a sconfiggere Gerald II?"
 
 #. [event]: description=King Theomund, description=King Theomund, description=King Theomund, (description=King Theomund) no}, (description=Horomir) no}
 #: Raajal/scenarios/Day2_Theomund.cfg:73
@@ -3911,8 +3947,9 @@ msgid "Can they see me?"
 msgstr ""
 
 #: Raajal/utils/mission-red-sea.cfg:709
+#, fuzzy
 msgid "Yes."
-msgstr ""
+msgstr "S'. Perché?"
 
 #: Raajal/utils/mission-red-sea.cfg:764
 #, fuzzy
@@ -3924,8 +3961,9 @@ msgid "Is he still alive, Mordoc?"
 msgstr ""
 
 #: Raajal/utils/mission-red-sea.cfg:766
+#, fuzzy
 msgid "Just barely."
-msgstr ""
+msgstr "Solo un momento."
 
 #: Raajal/utils/mission-red-sea.cfg:767
 msgid "Good. Take him and Randalf to the southeast cave."
